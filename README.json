@@ -1,0 +1,7390 @@
+{
+	"Model":
+		{
+
+			"com_pipe_4_holder_metal_rusted":
+			{
+				"Address": "0x82EC79E0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_chicom_world":
+			{
+				"Address": "0x82EB5174",
+				"Material": "mc/mtl_t6_wpn_smg_chicom_camo1",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"p6_zm_rocks_large_cluster_01":
+			{
+				"Address": "0x82EE1694",
+				"Material": "mc/rock_cliff_rocky_dark",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_power_station_railing_steps":
+			{
+				"Address": "0x82EC6F64",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_sleight_view":
+			{
+				"Address": "0x82ED5054",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_sleight",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"collision_geo_128x128x10_standard":
+			{
+				"Address": "0x82EB1380",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_256x256x256":
+			{
+				"Address": "0x82EAF03C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_wall_512x512x10_standard":
+			{
+				"Address": "0x82EB20D8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_barbed_wire_cage":
+			{
+				"Address": "0x82EC1C78",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_door_tearin_wood01":
+			{
+				"Address": "0x82EE25D4",
+				"Material": "mc/mtl_p_cub_window_villa_wood",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_usrpg_world":
+			{
+				"Address": "0x82EDB744",
+				"Material": "mc/mtl_t6_wpn_launch_usrpg",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_64x64x256":
+			{
+				"Address": "0x82EACCF8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_lights_barefixture_on_power":
+			{
+				"Address": "0x82EC7058",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_gl_m203_m16_view":
+			{
+				"Address": "0x82ED7674",
+				"Material": "mc/mtl_t6_attach_gl_m203",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_zm_bank_vault_door_frame":
+			{
+				"Address": "0x82EE3420",
+				"Material": "mc/mtl_vault_door_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_pipe_ring_panel_01":
+			{
+				"Address": "0x82EC8368",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_pipe_ring_panel_02":
+			{
+				"Address": "0x82EC845C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_pipe_ring_panel_03":
+			{
+				"Address": "0x82EC8550",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_battery":
+			{
+				"Address": "0x82EEDCD4",
+				"Material": "mc/mtl_p6_zm_buildable_etrap",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_light_fluorescent_yellow_damaged_diner":
+			{
+				"Address": "0x82EC0968",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_wind_turbine":
+			{
+				"Address": "0x82ECB128",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_crate01_farm":
+			{
+				"Address": "0x82EC3BEC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_dest_electric_panel01_base":
+			{
+				"Address": "0x82EC8A14",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_bullet_chain":
+			{
+				"Address": "0x82EB73C4",
+				"Material": "mc/mtl_fx_bullet_chain",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_bucket_metal_farm":
+			{
+				"Address": "0x82EC3CE0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"weapon_usa_ray_gun":
+			{
+				"Address": "0x82EDE9C8",
+				"Material": "mc/mtl_ray_gun",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t5_weapon_ballistic_knife_blade_retrieve":
+			{
+				"Address": "0x82EDF074",
+				"Material": "mc/mtl_ballistic_knife_retrieve",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p_rus_handrail_yellow_128_double":
+			{
+				"Address": "0x82ED1BE8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_bank_deposit_box_open_02b":
+			{
+				"Address": "0x82EE38E4",
+				"Material": "mc/metal_deposit_box01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_bank_deposit_box_open_02c":
+			{
+				"Address": "0x82EE39D8",
+				"Material": "mc/metal_deposit_box01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_paintcan":
+			{
+				"Address": "0x82EC01C8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_semtex_projectile":
+			{
+				"Address": "0x82EE0B24",
+				"Material": "mc/mtl_t6_wpn_grenade_semtex",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_zm_monitor_table_01":
+			{
+				"Address": "0x82EC64E8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body01_g_legsoff":
+			{
+				"Address": "0x82EE9C04",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_raygun2_upg_world":
+			{
+				"Address": "0x82EAE008",
+				"Material": "mc/mtl_t6_wpn_zmb_raygun2_1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_top":
+			{
+				"Address": "0x82EC7DB0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_light_sconce_motel_off":
+			{
+				"Address": "0x82ECEF1C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_emp_world":
+			{
+				"Address": "0x82EDFAF0",
+				"Material": "mc/mtl_t6_wpn_grenade_emp",
+				"numBones": "3",
+				"numRootBones": "2"
+				},
+			"furniture_pool_table_snooker":
+			{
+				"Address": "0x82ECC714",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_rollup_door_136":
+			{
+				"Address": "0x82EBCA80",
+				"Material": "mc/mtl_p_rus_rollup_door",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_vending_marathon":
+			{
+				"Address": "0x82ED4A9C",
+				"Material": "mc/mtl_zombie_vending_marathon",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_z_money_icon":
+			{
+				"Address": "0x82EED904",
+				"Material": "mc/mtl_x2icon_gold",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_8x64_ceramic":
+			{
+				"Address": "0x82EC7334",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_emp_view":
+			{
+				"Address": "0x82EDF9FC",
+				"Material": "mc/mtl_t6_wpn_grenade_emp",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"collision_physics_wall_256x256x10":
+			{
+				"Address": "0x82EB0AEC",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_coiledwire":
+			{
+				"Address": "0x82EBDAB4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"viewmodel_zombie_cymbal_monkey":
+			{
+				"Address": "0x82EDF814",
+				"Material": "mc/mtl_monkey_bomb_metal",
+				"numBones": "14",
+				"numRootBones": "1"
+				},
+			"p_glo_bathroom_sink":
+			{
+				"Address": "0x82EBDF78",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_ak74u_world":
+			{
+				"Address": "0x82ED7950",
+				"Material": "mc/mtl_t6_wpn_smg_ak74u_camo1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_zm_building_rundown_01":
+			{
+				"Address": "0x82EBAEDC",
+				"Material": "mc/ch_concrete_base_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_building_rundown_03":
+			{
+				"Address": "0x82EBAFD0",
+				"Material": "mc/wood_wall_planks_painted_yellow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_sphere_32":
+			{
+				"Address": "0x82EAD498",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_tunnel_pillar_1":
+			{
+				"Address": "0x82EE3CB4",
+				"Material": "mc/ch_concrete_base_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"furniture_lamp_hanging_off":
+			{
+				"Address": "0x82ECC15C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_mp5_view":
+			{
+				"Address": "0x82ED7E14",
+				"Material": "mc/mtl_t6_wpn_smg_mp5_camo2",
+				"numBones": "11",
+				"numRootBones": "1"
+				},
+			"collision_physics_32x32x10":
+			{
+				"Address": "0x82EAFBAC",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_bus_03_upgrade":
+			{
+				"Address": "0x82EE66A4",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"collision_geo_512x512x10_standard":
+			{
+				"Address": "0x82EB1750",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_electrical_pipes_90deg":
+			{
+				"Address": "0x82ED05FC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_restaurantchair_2":
+			{
+				"Address": "0x82EBB3A0",
+				"Material": "mc/mtl_restaurant_chair",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_galil_world":
+			{
+				"Address": "0x82ED8C60",
+				"Material": "mc/mtl_t6_wpn_ar_galil_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_jetgun_handles":
+			{
+				"Address": "0x82EEE28C",
+				"Material": "mc/mtl_t6_wpn_zmb_jet_gun",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_01":
+			{
+				"Address": "0x82EE4B00",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_02":
+			{
+				"Address": "0x82EE4CE8",
+				"Material": "mc/mtl_p6_wood_plank_rustic01_2x8x108",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_03":
+			{
+				"Address": "0x82EE4ED0",
+				"Material": "mc/mtl_p6_wood_plank_rustic01_2x8x108",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_04":
+			{
+				"Address": "0x82EE50B8",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_05":
+			{
+				"Address": "0x82EE52A0",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_06":
+			{
+				"Address": "0x82EE5488",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"lights_indlight_on_town":
+			{
+				"Address": "0x82ECF1F8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_sandbags_green_long":
+			{
+				"Address": "0x82EC3540",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_radiation_building_supports02":
+			{
+				"Address": "0x82EC4EFC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_geo_32x32x32_standard":
+			{
+				"Address": "0x82EB0DC8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_870mcs_view":
+			{
+				"Address": "0x82ED83CC",
+				"Material": "mc/mtl_t6_attach_trinium_sight_white_add",
+				"numBones": "11",
+				"numRootBones": "1"
+				},
+			"p_lights_barefixture_off_farm":
+			{
+				"Address": "0x82EC3A04",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body01_g_lowclean":
+			{
+				"Address": "0x82EE9928",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_03_upgrade":
+			{
+				"Address": "0x82EE4FC4",
+				"Material": "mc/mtl_p6_wood_plank_rustic01_2x8x108",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p_rus_tank_large_rooftop":
+			{
+				"Address": "0x82EC3728",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_colt3x_world":
+			{
+				"Address": "0x82EB7F34",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_dmg1_stow":
+			{
+				"Address": "0x82EE0754",
+				"Material": "mc/mtl_t6_wpn_zmb_shield_glass",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_zm_bench_plastic":
+			{
+				"Address": "0x82EBB958",
+				"Material": "mc/mtl_p6_zm_bench_plastic",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_catwalk_128_straight":
+			{
+				"Address": "0x82EC5978",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_door_brokenwindow":
+			{
+				"Address": "0x82EE1B58",
+				"Material": "mc/door_metal_window_grey",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_antenna_3":
+			{
+				"Address": "0x82EC3358",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_animal_cage_medium_01":
+			{
+				"Address": "0x82ED0138",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_cardboardbox_dusty_01":
+			{
+				"Address": "0x82EC26F4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_cardboardbox_dusty_02":
+			{
+				"Address": "0x82EC27E8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_cardboardbox_dusty_03":
+			{
+				"Address": "0x82EC28DC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_judge_view":
+			{
+				"Address": "0x82EDD8A0",
+				"Material": "mc/mtl_t6_attach_tritium_red",
+				"numBones": "14",
+				"numRootBones": "1"
+				},
+			"collision_clip_512x512x512":
+			{
+				"Address": "0x82EAF224",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body03_g_upclean":
+			{
+				"Address": "0x82EEB6B4",
+				"Material": "mc/mtl_c_zom_zombie3_body03",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"fx_wood_splinter01":
+			{
+				"Address": "0x82EB296C",
+				"Material": "mc/mtl_fx_wood_splinter",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_wood_splinter02":
+			{
+				"Address": "0x82EB2A60",
+				"Material": "mc/mtl_fx_wood_splinter",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_dest_electric_panel04_base":
+			{
+				"Address": "0x82EC8ED8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_ak_view":
+			{
+				"Address": "0x82ED7A44",
+				"Material": "mc/mtl_t6_attach_mag_ak",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"collision_physics_128x128x10":
+			{
+				"Address": "0x82EB0258",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"storefront_door02_window":
+			{
+				"Address": "0x82EE5670",
+				"Material": "mc/mtl_storefront_door",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_bench_old_town":
+			{
+				"Address": "0x82ECE688",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_shotgun_shell":
+			{
+				"Address": "0x82ED84C0",
+				"Material": "mc/mtl_fx_shotgun_shell",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_m82_scope_view":
+			{
+				"Address": "0x82EB5820",
+				"Material": "mc/mtl_t6_wpn_sniper_ballista_lens",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body01_g_llegoff":
+			{
+				"Address": "0x82EE8800",
+				"Material": "mc/mtl_c_zom_zombie1_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_python_world":
+			{
+				"Address": "0x82ED6828",
+				"Material": "mc/mtl_t6_wpn_pistol_python",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body04_g_llegoff":
+			{
+				"Address": "0x82EEC318",
+				"Material": "mc/mtl_c_zom_zombie3_body04",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p6_zm_window_dest_glass_small":
+			{
+				"Address": "0x82EE5C28",
+				"Material": "mc/glass_tint_blue",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zm_collision_transit_town_classic":
+			{
+				"Address": "0x82EDE31C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body02_g_larmoff":
+			{
+				"Address": "0x82EE9094",
+				"Material": "mc/mtl_c_zom_zombie1_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_dsr50_view":
+			{
+				"Address": "0x82EB5DD8",
+				"Material": "mc/mtl_t6_wpn_sniper_dsr50",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"p_lights_barefixture_on":
+			{
+				"Address": "0x82EC307C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body01":
+			{
+				"Address": "0x82EE9558",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body02":
+			{
+				"Address": "0x82EE9CF8",
+				"Material": "mc/mtl_c_zom_zombie2_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body03":
+			{
+				"Address": "0x82EEA0C8",
+				"Material": "mc/mtl_c_zom_zombie2_body03",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"collision_physics_64x64x10":
+			{
+				"Address": "0x82EAFE88",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body01_g_larmoff":
+			{
+				"Address": "0x82EE9834",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body05_g_larmoff":
+			{
+				"Address": "0x82EEC7DC",
+				"Material": "mc/mtl_c_zom_zombie3_body05",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_neon_bar":
+			{
+				"Address": "0x82ECD83C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_farmgirl_viewhands":
+			{
+				"Address": "0x82EED34C",
+				"Material": "mc/mtl_viewarm_zom_farmgirl",
+				"numBones": "72",
+				"numRootBones": "1"
+				},
+			"hanging_wire_04_diner":
+			{
+				"Address": "0x82EC1014",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_handrail_yellow_256_double":
+			{
+				"Address": "0x82ED1DD0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_4x64_metal_rusted":
+			{
+				"Address": "0x82ED32C8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_cylinder_32x128":
+			{
+				"Address": "0x82EAF318",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"africa_skulls_pile_large":
+			{
+				"Address": "0x82ECAC64",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_x95l_world":
+			{
+				"Address": "0x82EB3A94",
+				"Material": "mc/mtl_t6_wpn_ar_x95l_camo1",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"lights_indlight":
+			{
+				"Address": "0x82EBB770",
+				"Material": "mc/mtl_glass_v2_off",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"char_ger_zombieeye":
+			{
+				"Address": "0x82EB2F24",
+				"Material": "mc/mtl_char_ger_nazizombie_eyes",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_saiga_world":
+			{
+				"Address": "0x82EDC0CC",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_holo_zmb_world":
+			{
+				"Address": "0x82EB6B30",
+				"Material": "mc/mtl_t6_attach_optic_holo_zmb",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"viewmodel_hands_cloth":
+			{
+				"Address": "0x82ED4020",
+				"Material": "mc/lambert1",
+				"numBones": "52",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_m14_view":
+			{
+				"Address": "0x82ED6ED4",
+				"Material": "mc/mtl_t6_wpn_ar_m14",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"collision_clip_512x512x10":
+			{
+				"Address": "0x82EAF130",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_wood_window_shutter_red_left":
+			{
+				"Address": "0x82EC17B4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_debris_engine02":
+			{
+				"Address": "0x82ED247C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_jetgun_guages":
+			{
+				"Address": "0x82EEE198",
+				"Material": "mc/mtl_t6_wpn_zmb_jet_gun",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_char_gib_chunk_bone03":
+			{
+				"Address": "0x82EB23B4",
+				"Material": "mc/mtl_fx_char_gib_chunks",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"void":
+			{
+				"Address": "0x82EAE4CC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_m82_view":
+			{
+				"Address": "0x82EB5450",
+				"Material": "mc/mtl_t6_wpn_sniper_m82",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_reflex_view":
+			{
+				"Address": "0x82EB70E8",
+				"Material": "mc/mtl_t6_attach_optic_reflex_reticle",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_microbus_dead":
+			{
+				"Address": "0x82EE13B8",
+				"Material": "mc/mtl_veh_t6_civ_microbus_glass",
+				"numBones": "76",
+				"numRootBones": "1"
+				},
+			"p6_zm_bank_teller_window_d1":
+			{
+				"Address": "0x82ECFA8C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_teddybear":
+			{
+				"Address": "0x82EE4A0C",
+				"Material": "mc/mtl_prop_bear",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body02_g_legsoff":
+			{
+				"Address": "0x82EE9464",
+				"Material": "mc/mtl_c_zom_zombie1_body02",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p_glo_lights_fluorescent_yellow_on_town":
+			{
+				"Address": "0x82ECF2EC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_256x256x256":
+			{
+				"Address": "0x82EAD0C8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_cardboardbox_1":
+			{
+				"Address": "0x82EC4A38",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"viewmodel_hands_no_model":
+			{
+				"Address": "0x82EB85E0",
+				"Material": "mc/mtl_default",
+				"numBones": "70",
+				"numRootBones": "1"
+				},
+			"paris_kitchen_counter_a":
+			{
+				"Address": "0x82EBD12C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"paris_kitchen_counter_b":
+			{
+				"Address": "0x82EBD220",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_lights_cagelight02_red_off":
+			{
+				"Address": "0x82EE463C",
+				"Material": "mc/mtl_lantern_body",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_srm1216_world":
+			{
+				"Address": "0x82EDC86C",
+				"Material": "mc/mtl_t6_wpn_shotty_srm1216_camo1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body03_g_lowclean":
+			{
+				"Address": "0x82EEB990",
+				"Material": "mc/mtl_c_zom_zombie3_body03",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body05_g_legsoff":
+			{
+				"Address": "0x82EECBAC",
+				"Material": "mc/mtl_c_zom_zombie3_body05",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_kobra_view":
+			{
+				"Address": "0x82ED7C2C",
+				"Material": "mc/mtl_t6_attach_optic_kobra",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_bank_teller_desk":
+			{
+				"Address": "0x82ECF8A4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_view_red":
+			{
+				"Address": "0x82EDFEC0",
+				"Material": "mc/mtl_t6_wpn_zmb_shield_glass",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"zombie_vending_sleight":
+			{
+				"Address": "0x82ED523C",
+				"Material": "mc/mtl_zombie_vending_sleight",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_neon_open":
+			{
+				"Address": "0x82ECC250",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_wires_modular_straight_256_pstation":
+			{
+				"Address": "0x82EC7EA4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_sq_electric_box":
+			{
+				"Address": "0x82EE74F0",
+				"Material": "mc/mtl_p6_zm_buildable_sq",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_plant_cornstalk_lrg_row_256_dry_farm":
+			{
+				"Address": "0x82EC1F54",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zm_awning_01_stripe":
+			{
+				"Address": "0x82ECBD8C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"skybox_zm_transit":
+			{
+				"Address": "0x82EE7214",
+				"Material": "mc/mtl_skybox_zm_transit",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_bank_pilaster_1":
+			{
+				"Address": "0x82ECFB80",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_stepladder_large_closed":
+			{
+				"Address": "0x82EEDAEC",
+				"Material": "mc/mtl_stepladder",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_rebar01_single_dirty":
+			{
+				"Address": "0x82ECD190",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_bus_zombie":
+			{
+				"Address": "0x82EE6B68",
+				"Material": "mc/mtl_veh_t6_bus_zombie_tire",
+				"numBones": "98",
+				"numRootBones": "1"
+				},
+			"c_zom_player_oldman_fb":
+			{
+				"Address": "0x82EED070",
+				"Material": "mc/mtl_c_zom_player_oldman_head",
+				"numBones": "103",
+				"numRootBones": "1"
+				},
+			"p_eb_lg_suitcase":
+			{
+				"Address": "0x82EB9614",
+				"Material": "mc/mtl_p_eb_lg_suitcase",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_m82_scope_world":
+			{
+				"Address": "0x82EB5A08",
+				"Material": "mc/mtl_t6_wpn_sniper_m82_scope",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_aimpoint_view":
+			{
+				"Address": "0x82EB8028",
+				"Material": "mc/mtl_t6_attach_optic_aimpoint",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_tools_wheelbarrow":
+			{
+				"Address": "0x82EC2E94",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_silo":
+			{
+				"Address": "0x82EC41A4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_wall_vent_1":
+			{
+				"Address": "0x82ED1354",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_4_coupling_ceramic":
+			{
+				"Address": "0x82EC751C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_wall_256x256x10":
+			{
+				"Address": "0x82EAF9C4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_sphere_64":
+			{
+				"Address": "0x82EAD58C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_lights_fluorescent_yellow_on_diner":
+			{
+				"Address": "0x82EC0874",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_longtable_sink":
+			{
+				"Address": "0x82EC344C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_roof_vent":
+			{
+				"Address": "0x82ECEB4C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_handrail_yellow_64_end":
+			{
+				"Address": "0x82ED1AF4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_air_vent":
+			{
+				"Address": "0x82ECC52C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_gas_sign_01":
+			{
+				"Address": "0x82EC0B50",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_barbed_wire05":
+			{
+				"Address": "0x82EC12F0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_barbed_wire06":
+			{
+				"Address": "0x82EC11FC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_olympia_world":
+			{
+				"Address": "0x82ED82D8",
+				"Material": "mc/mtl_t6_wpn_shotty_olympia_wood",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"fx_shotgun_shell_blur":
+			{
+				"Address": "0x82ED85B4",
+				"Material": "mc/mtl_fx_shotgun_shell_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_vending_sleight_on":
+			{
+				"Address": "0x82ED5330",
+				"Material": "mc/mtl_zombie_vending_sleight",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_chicom_view":
+			{
+				"Address": "0x82EB5080",
+				"Material": "mc/mtl_t6_attach_tritium_wht",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_bus_04_upgrade":
+			{
+				"Address": "0x82EE688C",
+				"Material": "mc/mtl_p6_wood_plank_rustic01_2x8x108",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"undr_locker_military_red":
+			{
+				"Address": "0x82ED07E4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_rangefinder_view":
+			{
+				"Address": "0x82EB6E0C",
+				"Material": "mc/mtl_t6_attach_optic_rangefinder_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_claymore_world":
+			{
+				"Address": "0x82EDF720",
+				"Material": "mc/mtl_t6_wpn_claymore",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"com_hub_cap_1":
+			{
+				"Address": "0x82EBD4FC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_hub_cap_2":
+			{
+				"Address": "0x82EBD5F0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_hub_cap_3":
+			{
+				"Address": "0x82EBD6E4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_hub_cap_4":
+			{
+				"Address": "0x82EBD7D8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_mattress_2":
+			{
+				"Address": "0x82EC381C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_geo_sphere_64_standard":
+			{
+				"Address": "0x82EB1B20",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_jetgun_engine":
+			{
+				"Address": "0x82EEE0A4",
+				"Material": "mc/mtl_t6_wpn_zmb_jet_gun",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_diner_base":
+			{
+				"Address": "0x82EBFA28",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_frag_world":
+			{
+				"Address": "0x82ED5BC4",
+				"Material": "mc/mtl_t6_wpn_grenade_frag",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_chickencoop":
+			{
+				"Address": "0x82EC1D6C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_sofa_damaged_panama":
+			{
+				"Address": "0x82EBA648",
+				"Material": "mc/mtl_p6_sofa_damaged_panama",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_ball_return":
+			{
+				"Address": "0x82ECDD00",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body03_g_rlegoff":
+			{
+				"Address": "0x82EEBA84",
+				"Material": "mc/mtl_c_zom_zombie3_body03",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_floor_tile_b1":
+			{
+				"Address": "0x82EC92A8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_floor_tile_b2":
+			{
+				"Address": "0x82EC939C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_floor_tile_b4":
+			{
+				"Address": "0x82EC9490",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_floor_tile_b5":
+			{
+				"Address": "0x82EC9584",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body01_g_legsoff":
+			{
+				"Address": "0x82EEAB44",
+				"Material": "mc/mtl_c_zom_zombie3_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body01_g_rarmoff":
+			{
+				"Address": "0x82EE833C",
+				"Material": "mc/mtl_c_zom_zombie1_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_turbine_fan":
+			{
+				"Address": "0x82EEE750",
+				"Material": "mc/mtl_p6_zm_buildable_turbine",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_geo_256x256x256_standard":
+			{
+				"Address": "0x82EB165C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_frag_projectile":
+			{
+				"Address": "0x82ED5CB8",
+				"Material": "mc/mtl_t6_wpn_grenade_frag",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_magazines_rack_town":
+			{
+				"Address": "0x82ECE2B8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body04_g_rarmoff":
+			{
+				"Address": "0x82EEBF48",
+				"Material": "mc/mtl_c_zom_zombie3_body04",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_04_upgrade":
+			{
+				"Address": "0x82EE51AC",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_world":
+			{
+				"Address": "0x82EE019C",
+				"Material": "mc/mtl_t6_wpn_zmb_shield_glass",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p_jun_rebar02_single_dirty":
+			{
+				"Address": "0x82EBB1B8",
+				"Material": "mc/mtl_rebar02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_claymore_stow":
+			{
+				"Address": "0x82EDF62C",
+				"Material": "mc/mtl_t6_wpn_claymore",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_barn_door_left":
+			{
+				"Address": "0x82EC4480",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_8x128_ceramic":
+			{
+				"Address": "0x82EC7428",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zm_awning_01_blue":
+			{
+				"Address": "0x82ECBC98",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_rifle_shell_blur":
+			{
+				"Address": "0x82EB5638",
+				"Material": "mc/mtl_fx_shell_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_billboard_pillar_top":
+			{
+				"Address": "0x82EBE80C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_electrical_pipes_t":
+			{
+				"Address": "0x82EBC1EC",
+				"Material": "mc/mtl_p_rus_pipes_modular",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_bank_deposit_box_open_02":
+			{
+				"Address": "0x82EE36FC",
+				"Material": "mc/metal_deposit_box01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_bank_deposit_box_open_03":
+			{
+				"Address": "0x82EE37F0",
+				"Material": "mc/metal_deposit_box01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_roof":
+			{
+				"Address": "0x82EC808C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_room_upper_catwalk_a":
+			{
+				"Address": "0x82EC9860",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_room_upper_catwalk_b":
+			{
+				"Address": "0x82EC9954",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_m1911_view":
+			{
+				"Address": "0x82EB4CB0",
+				"Material": "mc/mtl_t6_wpn_pistol_m1911",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"p_glo_electrical_pipes_long_depot":
+			{
+				"Address": "0x82EBC3D4",
+				"Material": "mc/mtl_p_rus_pipes_modular",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_tools_saw":
+			{
+				"Address": "0x82EC2DA0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_32x32x128":
+			{
+				"Address": "0x82EAC928",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_ramp":
+			{
+				"Address": "0x82EAD680",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_8_90angle_ceramic_lab":
+			{
+				"Address": "0x82ED153C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_m82_world":
+			{
+				"Address": "0x82EB572C",
+				"Material": "mc/mtl_t6_wpn_sniper_m82",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"p6_zm_picture01":
+			{
+				"Address": "0x82ECE0D0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_picture02":
+			{
+				"Address": "0x82ECDFDC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_picture03":
+			{
+				"Address": "0x82ECDEE8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"berlin_traffic_signal_01_off":
+			{
+				"Address": "0x82ECD09C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_electricalbox_01":
+			{
+				"Address": "0x82EC068C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_electricalbox_02":
+			{
+				"Address": "0x82EBC0F8",
+				"Material": "mc/mtl_p_rus_electric_panel_a",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_electricalbox_03":
+			{
+				"Address": "0x82EC29D0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_electricalbox_04":
+			{
+				"Address": "0x82EC78EC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_reporter_viewhands":
+			{
+				"Address": "0x82EED628",
+				"Material": "mc/mtl_viewarm_zom_reporter",
+				"numBones": "72",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_stow":
+			{
+				"Address": "0x82EE0290",
+				"Material": "mc/mtl_t6_wpn_zmb_shield_glass",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_zm_farm_trough":
+			{
+				"Address": "0x82EC3FBC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_dsr50_world":
+			{
+				"Address": "0x82EB666C",
+				"Material": "mc/mtl_t6_attach_optic_vzoom_dsr50",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_lights_hangingbulb_off":
+			{
+				"Address": "0x82ECB9BC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_rocks_small_cluster_01":
+			{
+				"Address": "0x82EE3050",
+				"Material": "mc/rock_cliff_rocky_dark",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_rocks_small_cluster_03":
+			{
+				"Address": "0x82EE23EC",
+				"Material": "mc/rock_cliff_rocky_dark",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_restaurantkitchenvent":
+			{
+				"Address": "0x82EBFC10",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_pistol_fastmag_view":
+			{
+				"Address": "0x82EB83F8",
+				"Material": "mc/mtl_t6_attach_fastmag",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body01":
+			{
+				"Address": "0x82EE7D84",
+				"Material": "mc/mtl_c_zom_zombie1_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body02":
+			{
+				"Address": "0x82EE8DB8",
+				"Material": "mc/mtl_c_zom_zombie1_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"p6_monitor_small":
+			{
+				"Address": "0x82EC6300",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_pswitch_hand":
+			{
+				"Address": "0x82EE6E44",
+				"Material": "mc/mtl_p6_zm_buildable_pswitch_hand",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_reflex_world":
+			{
+				"Address": "0x82EB71DC",
+				"Material": "mc/mtl_t6_attach_optic_reflex",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_chair_damaged_trash_panama":
+			{
+				"Address": "0x82EBA36C",
+				"Material": "mc/mtl_p6_chair_damaged_panama",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_cash_register_gstation":
+			{
+				"Address": "0x82EBDBA8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_barrel_02_clean":
+			{
+				"Address": "0x82EC7F98",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_bus_driver":
+			{
+				"Address": "0x82EE6C5C",
+				"Material": "mc/mtl_p6_zm_bus_driver",
+				"numBones": "15",
+				"numRootBones": "1"
+				},
+			"p6_duct_sq_sml_vent_dirty":
+			{
+				"Address": "0x82EC0598",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_fuelstorage_tank_rusty_zm_gstation":
+			{
+				"Address": "0x82EBE900",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_vending_tombstone":
+			{
+				"Address": "0x82ED560C",
+				"Material": "mc/mtl_zombie_vending_tombstone",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_raygun2_upg_view":
+			{
+				"Address": "0x82EADF14",
+				"Material": "mc/mtl_t6_wpn_zmb_raygun2_1",
+				"numBones": "15",
+				"numRootBones": "1"
+				},
+			"collision_wall_256x256x10_standard":
+			{
+				"Address": "0x82EB1FE4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_highway_sign":
+			{
+				"Address": "0x82ED1A00",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_debris_car_hood":
+			{
+				"Address": "0x82ED2758",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_wmd_glo_vent_support":
+			{
+				"Address": "0x82ED0F84",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"vehicle_tractor_2":
+			{
+				"Address": "0x82EC1E60",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_electrical_pipes_45deg":
+			{
+				"Address": "0x82EBC7A4",
+				"Material": "mc/mtl_p_rus_pipes_modular",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_street_light01_fx_shell":
+			{
+				"Address": "0x82EEED08",
+				"Material": "mc/light_white_01_unlit",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_buildable_sq":
+			{
+				"Address": "0x82EE7120",
+				"Material": "mc/mtl_p6_zm_buildable_sq",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie_g_rlegspawn":
+			{
+				"Address": "0x82EE8BD0",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_ak74u_view":
+			{
+				"Address": "0x82ED785C",
+				"Material": "mc/mtl_t6_wpn_smg_ak74u_camo1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fiveseven_view":
+			{
+				"Address": "0x82EB8210",
+				"Material": "mc/mtl_t6_wpn_pistol_fiveseven_camo1",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"collision_clip_32x32x10":
+			{
+				"Address": "0x82EAE6B4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"lights_indlight_diner":
+			{
+				"Address": "0x82EC00D4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"afr_powerpole1":
+			{
+				"Address": "0x82EE2110",
+				"Material": "mc/mtl_stalingradpowerpole",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_lights_lantern_hang_on":
+			{
+				"Address": "0x82EC2F88",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_foliage_bush05":
+			{
+				"Address": "0x82EE11D0",
+				"Material": "mc/t5_foliage_bush_bark01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_powerline_tower_top_broken2":
+			{
+				"Address": "0x82EC69AC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_256x256x10":
+			{
+				"Address": "0x82EACFD4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_frag_view":
+			{
+				"Address": "0x82ED57F4",
+				"Material": "mc/mtl_t6_wpn_grenade_frag",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_rangefinder_ads":
+			{
+				"Address": "0x82EB6F00",
+				"Material": "mc/mtl_t6_attach_optic_rangefinder_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body01_g_llegoff":
+			{
+				"Address": "0x82EE9B10",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"c_zom_player_engineer_fb":
+			{
+				"Address": "0x82EED164",
+				"Material": "mc/mtl_c_gen_arm_dirty_asian",
+				"numBones": "103",
+				"numRootBones": "1"
+				},
+			"p6_zm_window_dest_glass_big":
+			{
+				"Address": "0x82EE5D1C",
+				"Material": "mc/glass_tint_blue",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_window_dest_glass_big_broken":
+			{
+				"Address": "0x82EE332C",
+				"Material": "mc/glass_tint_blue_shatter",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_bike_destroyed":
+			{
+				"Address": "0x82EBA73C",
+				"Material": "mc/mtl_bike",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_coffeepotold":
+			{
+				"Address": "0x82EBEEB8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_gl_m320_view":
+			{
+				"Address": "0x82EB6760",
+				"Material": "mc/mtl_t6_attach_gl_m320",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_type95_world":
+			{
+				"Address": "0x82EB3F58",
+				"Material": "mc/mtl_t6_wpn_ar_type95",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"p6_zm_power_station_railing":
+			{
+				"Address": "0x82EC6D7C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_collision":
+			{
+				"Address": "0x82EE79B4",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"zombie_bomb":
+			{
+				"Address": "0x82EB3018",
+				"Material": "mc/mtl_x2icon_gold",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_sleight_world":
+			{
+				"Address": "0x82ED5148",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_sleight",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p_jun_metal_shelves":
+			{
+				"Address": "0x82EBD9C0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body02_g_larmoff":
+			{
+				"Address": "0x82EE9FD4",
+				"Material": "mc/mtl_c_zom_zombie2_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"ny_harbor_sub_int_pipes_under":
+			{
+				"Address": "0x82EC52CC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_plant_cornstalk_lrg_row_256_dry":
+			{
+				"Address": "0x82ECB404",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_dsr50_world":
+			{
+				"Address": "0x82EB5ECC",
+				"Material": "mc/mtl_t6_wpn_sniper_dsr50",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"p6_table_bunker_sm":
+			{
+				"Address": "0x82ECA2DC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body01_g_larmoff":
+			{
+				"Address": "0x82EEA774",
+				"Material": "mc/mtl_c_zom_zombie3_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_m14_view":
+			{
+				"Address": "0x82ED70BC",
+				"Material": "mc/mtl_t6_wpn_ar_m14",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_file_cabinets_a_drawer":
+			{
+				"Address": "0x82ECCCCC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_window03_nosnow":
+			{
+				"Address": "0x82EC4E08",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"afr_chimp_skull_01":
+			{
+				"Address": "0x82ECA6AC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"afr_chimp_skull_03":
+			{
+				"Address": "0x82ECA5B8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"lights_indlight_on_depot":
+			{
+				"Address": "0x82EBC5BC",
+				"Material": "mc/mtl_glass_v2_on",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"debris_rubble_chunk_03":
+			{
+				"Address": "0x82ED20AC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"debris_rubble_chunk_05":
+			{
+				"Address": "0x82ED21A0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_raygun_view":
+			{
+				"Address": "0x82EDE8D4",
+				"Material": "mc/mtl_zombie_teleporter_glow",
+				"numBones": "11",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_kobra_world":
+			{
+				"Address": "0x82ED7D20",
+				"Material": "mc/mtl_t6_attach_optic_kobra",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_type95_stow":
+			{
+				"Address": "0x82EB404C",
+				"Material": "mc/mtl_t6_wpn_ar_type95",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_32x32x10":
+			{
+				"Address": "0x82EAC740",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_street_light02_on_light":
+			{
+				"Address": "0x82EEF1CC",
+				"Material": "mc/mtl_p_glo_street_light02_on",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_rain_gutter_01":
+			{
+				"Address": "0x82EC438C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_electrical_pipes_short":
+			{
+				"Address": "0x82ED0414",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_electrical_pipes_long":
+			{
+				"Address": "0x82ED0508",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body02_g_lowclean":
+			{
+				"Address": "0x82EEB1F0",
+				"Material": "mc/mtl_c_zom_zombie3_body02",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"me_dumpster_close":
+			{
+				"Address": "0x82EBE624",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_m_trash_pile":
+			{
+				"Address": "0x82EBBB40",
+				"Material": "mc/mtl_p_glo_cardboardbox",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_jetgun_wires":
+			{
+				"Address": "0x82EEDFB0",
+				"Material": "mc/mtl_battery_wires",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_buildable_turret":
+			{
+				"Address": "0x82EE0EF4",
+				"Material": "mc/mtl_t6_wpn_zmb_rpd",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"ny_manhattan_street_pipe_01_broken":
+			{
+				"Address": "0x82ED2B28",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_brick_clump_white":
+			{
+				"Address": "0x82ECF6BC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_crate_metal_1":
+			{
+				"Address": "0x82ED0BB4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_crate_metal_2":
+			{
+				"Address": "0x82ED0AC0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_512x512x10":
+			{
+				"Address": "0x82EB0628",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_64x64x10":
+			{
+				"Address": "0x82EAE990",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zm_t6_civ_movingtrk_box_dead":
+			{
+				"Address": "0x82EE1D40",
+				"Material": "mc/metal_trim_edge_grey",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_oldman_viewhands":
+			{
+				"Address": "0x82EED440",
+				"Material": "mc/mtl_viewarm_thread_alpha",
+				"numBones": "60",
+				"numRootBones": "1"
+				},
+			"p6_zm_screecher_hole":
+			{
+				"Address": "0x82EECE88",
+				"Material": "mc/mtl_p6_zm_screecher_hole",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_raingutter_clamp":
+			{
+				"Address": "0x82EE3238",
+				"Material": "mc/ceramic_linoleum_grey_stair_trim",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"defaultvehicle":
+			{
+				"Address": "0x82EAC64C",
+				"Material": "mc/mtl_defaultvehicle",
+				"numBones": "23",
+				"numRootBones": "1"
+				},
+			"static_peleliu_filecabinet_metal":
+			{
+				"Address": "0x82ECB5EC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_ak_world":
+			{
+				"Address": "0x82ED7B38",
+				"Material": "mc/mtl_t6_attach_mag_ak",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_ac_unit":
+			{
+				"Address": "0x82EBADE8",
+				"Material": "mc/mtl_p_rus_ac_unit",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_grip_world":
+			{
+				"Address": "0x82EB7B64",
+				"Material": "mc/mtl_t6_attach_grip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_m14_world":
+			{
+				"Address": "0x82ED6FC8",
+				"Material": "mc/mtl_t6_wpn_ar_m14",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p_rus_sign_biohazard":
+			{
+				"Address": "0x82ED09CC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_rocks_medium_05":
+			{
+				"Address": "0x82EE1E34",
+				"Material": "mc/rock_cliff_rocky_dark",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_bus_05_upgrade":
+			{
+				"Address": "0x82EE6A74",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_saiga_view":
+			{
+				"Address": "0x82EDBDF0",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"p6_zm_magazines_rack":
+			{
+				"Address": "0x82EBBA4C",
+				"Material": "mc/mtl_p6_zm_magazines",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ny_harbor_sub_int_light_2_off":
+			{
+				"Address": "0x82ED3A68",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_512x512x512":
+			{
+				"Address": "0x82EAD2B0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_hamr_world":
+			{
+				"Address": "0x82EB75AC",
+				"Material": "mc/mtl_t6_wpn_lmg_hamr_camo1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"pb_couch":
+			{
+				"Address": "0x82EC3910",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_revive_world":
+			{
+				"Address": "0x82ED4D78",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_revive",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_m14_world":
+			{
+				"Address": "0x82ED71B0",
+				"Material": "mc/mtl_t6_wpn_ar_m14",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_type95_view":
+			{
+				"Address": "0x82EB4140",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p_zom_clock":
+			{
+				"Address": "0x82EB89B0",
+				"Material": "mc/mtl_p_jun_clock_lrg",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_neon_loans":
+			{
+				"Address": "0x82ECDB18",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_rollup_door_120":
+			{
+				"Address": "0x82EBE254",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ny_manhattan_barrier_sawhorse":
+			{
+				"Address": "0x82ED3880",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_rb_lab_portable_curtain":
+			{
+				"Address": "0x82ED1078",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_light_fluorescent_yellow_damaged_depot":
+			{
+				"Address": "0x82EBC98C",
+				"Material": "mc/mtl_p_glo_light_fluorescent_yellow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_4x32_metal":
+			{
+				"Address": "0x82EC5D48",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_m82_view":
+			{
+				"Address": "0x82EB5914",
+				"Material": "mc/mtl_t6_wpn_sniper_m82",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_wood_plank_rustic01_2x12_96":
+			{
+				"Address": "0x82EBB2AC",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ct_dry_machine":
+			{
+				"Address": "0x82ECD378",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"yieldsign_01":
+			{
+				"Address": "0x82ED3974",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_05_upgrade":
+			{
+				"Address": "0x82EE5394",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"fx_decal_burnt_paper2":
+			{
+				"Address": "0x82EEEFE4",
+				"Material": "mc/mtl_fx_decal_burnt_paper",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_decal_burnt_paper3":
+			{
+				"Address": "0x82EEF0D8",
+				"Material": "mc/mtl_fx_decal_burnt_paper",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_pak_veh_train_boxcar":
+			{
+				"Address": "0x82EC4C20",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_geo_64x64x256_standard":
+			{
+				"Address": "0x82EB128C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_handrail_yellow_32_double":
+			{
+				"Address": "0x82ED1CDC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_dockpost_pow":
+			{
+				"Address": "0x82EC213C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"afr_junktire":
+			{
+				"Address": "0x82EBD8CC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_speedloader_view":
+			{
+				"Address": "0x82EDDA88",
+				"Material": "mc/mtl_t6_attach_speedloader",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"com_pipe_8x32_ceramic":
+			{
+				"Address": "0x82EC7240",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie_g_llegspawn":
+			{
+				"Address": "0x82EE8CC4",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_4x256_metal_bstation":
+			{
+				"Address": "0x82EBC6B0",
+				"Material": "mc/mtl_pipes",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_diner_rooftop":
+			{
+				"Address": "0x82EBFD04",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_turbine_rudder":
+			{
+				"Address": "0x82EEE938",
+				"Material": "mc/mtl_p6_zm_buildable_turbine",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_marathon_view":
+			{
+				"Address": "0x82ED48B4",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_marathon",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body01_g_upclean":
+			{
+				"Address": "0x82EE8248",
+				"Material": "mc/mtl_c_zom_zombie1_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"com_powerline_tower_top2_broken2":
+			{
+				"Address": "0x82ECAA7C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body01_g_rlegoff":
+			{
+				"Address": "0x82EE870C",
+				"Material": "mc/mtl_c_zom_zombie1_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"fx_char_gib_chunk_flesh03":
+			{
+				"Address": "0x82EB24A8",
+				"Material": "mc/mtl_fx_char_gib_chunks",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_sniper_silencer1_world":
+			{
+				"Address": "0x82EB6484",
+				"Material": "mc/mtl_t6_attach_sniper_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"bathroom_sink":
+			{
+				"Address": "0x82EBAC00",
+				"Material": "mc/mtl_bathroom_chrome",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_chain_fence_piece_end":
+			{
+				"Address": "0x82EE3F90",
+				"Material": "mc/ch_metal_rusty_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_64x64x10":
+			{
+				"Address": "0x82EACA1C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_wall_32x32x10_standard":
+			{
+				"Address": "0x82EB1D08",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_clock_diner":
+			{
+				"Address": "0x82EBDC9C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body04_g_upclean":
+			{
+				"Address": "0x82EEBE54",
+				"Material": "mc/mtl_c_zom_zombie3_body04",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body04_g_rlegoff":
+			{
+				"Address": "0x82EEC224",
+				"Material": "mc/mtl_c_zom_zombie3_body04",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"dest_glo_powerbox_glass02_chunk03":
+			{
+				"Address": "0x82EEF784",
+				"Material": "mc/dec_glass01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_marathon_world":
+			{
+				"Address": "0x82ED49A8",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_marathon",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"dest_glo_powerbox_glass02_chunk04":
+			{
+				"Address": "0x82EEF878",
+				"Material": "mc/dec_glass01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_glo_powerbox_glass02_chunk05":
+			{
+				"Address": "0x82EEF96C",
+				"Material": "mc/dec_glass01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body02_g_rarmoff":
+			{
+				"Address": "0x82EE8FA0",
+				"Material": "mc/mtl_c_zom_zombie1_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"p_glo_tools_chest_tall":
+			{
+				"Address": "0x82EBA924",
+				"Material": "mc/mtl_p_glo_tool_chest_tall1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body01_g_rarmoff":
+			{
+				"Address": "0x82EE9740",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"p6_zm_score_table":
+			{
+				"Address": "0x82ECDDF4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_combo_world":
+			{
+				"Address": "0x82EDE040",
+				"Material": "mc/mtl_t6_attach_optic_combo",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body05_g_rarmoff":
+			{
+				"Address": "0x82EEC6E8",
+				"Material": "mc/mtl_c_zom_zombie3_body05",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_diner":
+			{
+				"Address": "0x82EBF840",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_bus_zombie_roof_hatch":
+			{
+				"Address": "0x82EE6D50",
+				"Material": "mc/mtl_veh_t6_bus_zombie_int",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body02_g_llegoff":
+			{
+				"Address": "0x82EE9370",
+				"Material": "mc/mtl_c_zom_zombie1_body02",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"collision_player_wall_128x128x10":
+			{
+				"Address": "0x82EAD95C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ap_table01":
+			{
+				"Address": "0x82ECC8FC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_lab_hall_break_win01":
+			{
+				"Address": "0x82ED116C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_128x128x128":
+			{
+				"Address": "0x82EAEE54",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_olympia_view":
+			{
+				"Address": "0x82ED81E4",
+				"Material": "mc/mtl_t6_wpn_shotty_olympia_wood",
+				"numBones": "11",
+				"numRootBones": "1"
+				},
+			"p6_valve_01_ceramic":
+			{
+				"Address": "0x82EC55A8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body05_g_llegoff":
+			{
+				"Address": "0x82EECAB8",
+				"Material": "mc/mtl_c_zom_zombie3_body05",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"collision_physics_64x64x128":
+			{
+				"Address": "0x82EB0070",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"tag_flash":
+			{
+				"Address": "0x82EB86D4",
+				"Material": "mc/lambert1",
+				"numBones": "3",
+				"numRootBones": "3"
+				},
+			"p6_zm_brick_clump_red":
+			{
+				"Address": "0x82ECF5C8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_station_pipes_01":
+			{
+				"Address": "0x82EC8644",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_dmg2_view":
+			{
+				"Address": "0x82EE00A8",
+				"Material": "mc/mtl_t6_wpn_zmb_shield",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_deptstore":
+			{
+				"Address": "0x82ECD560",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_fuelstorage_tank_rusty_zm_farm":
+			{
+				"Address": "0x82EC250C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_lights_club_recessed_fx_shell2":
+			{
+				"Address": "0x82EEEDFC",
+				"Material": "mc/light_white_01_unlit",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_electrical_pipes_short_depot":
+			{
+				"Address": "0x82EBC4C8",
+				"Material": "mc/mtl_p_rus_pipes_modular",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_cash_register":
+			{
+				"Address": "0x82ECC620",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_power_station_railing_steps_labs":
+			{
+				"Address": "0x82EE3ACC",
+				"Material": "mc/metal_chrome_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_geo_256x256x10_standard":
+			{
+				"Address": "0x82EB1568",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_bowling_large":
+			{
+				"Address": "0x82ECD930",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_electricpanel_01":
+			{
+				"Address": "0x82ECFF50",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_kard_view":
+			{
+				"Address": "0x82EDA8F8",
+				"Material": "mc/mtl_t6_wpn_pistol_kard",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"com_pipe_4_coupling_metal_rusted":
+			{
+				"Address": "0x82ED2FEC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_8x128_ceramic_lab":
+			{
+				"Address": "0x82ED1448",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body01_g_behead":
+			{
+				"Address": "0x82EE8524",
+				"Material": "mc/mtl_c_zom_zombie_head_k",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_light_sconce_motel_on":
+			{
+				"Address": "0x82ECF010",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_radiator01":
+			{
+				"Address": "0x82EBAB0C",
+				"Material": "mc/mtl_radiator",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_4_90angle_metal":
+			{
+				"Address": "0x82EC5B60",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_farm_chickencoop":
+			{
+				"Address": "0x82EC4298",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_tombstone1":
+			{
+				"Address": "0x82EE73FC",
+				"Material": "mc/mtl_tombstone1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_type95_world":
+			{
+				"Address": "0x82EB4234",
+				"Material": "mc/mtl_t6_wpn_ar_type95_camo2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_wood_window_shutter_red_right":
+			{
+				"Address": "0x82EC18A8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_holder":
+			{
+				"Address": "0x82ED2E04",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_window_dest_glass_small_broken":
+			{
+				"Address": "0x82EE28B0",
+				"Material": "mc/glass_tint_blue_shatter",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_food_prep_station_stove":
+			{
+				"Address": "0x82EBF194",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_4x128_metal_rusted":
+			{
+				"Address": "0x82ED31D4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_mp5_world":
+			{
+				"Address": "0x82ED80F0",
+				"Material": "mc/mtl_t6_wpn_smg_mp5_camo2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_dsr50_scope_world":
+			{
+				"Address": "0x82EB61A8",
+				"Material": "mc/mtl_t6_wpn_sniper_dsr50_scope",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_1x16":
+			{
+				"Address": "0x82ED33BC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_window01_nosnow":
+			{
+				"Address": "0x82EC4D14",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_moon_lab_vent_3x3":
+			{
+				"Address": "0x82EC53C0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_m82_world":
+			{
+				"Address": "0x82EB5AFC",
+				"Material": "mc/mtl_t6_wpn_sniper_m82",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_trashcan_diner":
+			{
+				"Address": "0x82EBE718",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_duct_sq_sml_64_dirty":
+			{
+				"Address": "0x82EBEBDC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_door_roller":
+			{
+				"Address": "0x82EE5764",
+				"Material": "mc/rus_art_metal_black_trim_rusty",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_geo_cylinder_32x128_standard":
+			{
+				"Address": "0x82EB1938",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_rangefinder_world":
+			{
+				"Address": "0x82EB6FF4",
+				"Material": "mc/mtl_t6_attach_optic_rangefinder_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_ger_folding_chair":
+			{
+				"Address": "0x82EC1A90",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_tombstone_view":
+			{
+				"Address": "0x82ED5424",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_tombstone",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body01_g_llegoff":
+			{
+				"Address": "0x82EEAA50",
+				"Material": "mc/mtl_c_zom_zombie3_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p_glo_cans_multiple":
+			{
+				"Address": "0x82EC03B0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_storage_cabinet":
+			{
+				"Address": "0x82EBD038",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_4x256_metal":
+			{
+				"Address": "0x82EC5A6C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_pistol_fastmag_world":
+			{
+				"Address": "0x82EB84EC",
+				"Material": "mc/mtl_t6_attach_fastmag",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body02_g_lowclean":
+			{
+				"Address": "0x82EE9188",
+				"Material": "mc/mtl_c_zom_zombie1_body02",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_m32_ads":
+			{
+				"Address": "0x82EDBCFC",
+				"Material": "mc/mtl_t6_wpn_launch_m32",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"lights_indlight_on_power":
+			{
+				"Address": "0x82EC7AD4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_cub_door01_wood_fullsize":
+			{
+				"Address": "0x82EE5858",
+				"Material": "mc/mtl_p_cub_window_villa_wood",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_engineer_viewhands":
+			{
+				"Address": "0x82EED534",
+				"Material": "mc/mtl_viewarm_zom_engineer",
+				"numBones": "72",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_turret_ammo":
+			{
+				"Address": "0x82EEEA2C",
+				"Material": "mc/mtl_p6_zm_buildable_turret_ammo",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_pak_muddy_clothes_pile":
+			{
+				"Address": "0x82EB9AD8",
+				"Material": "mc/mtl_p6_pak_muddy_clothes",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_gascan":
+			{
+				"Address": "0x82EC04A4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_barn_handrail_01":
+			{
+				"Address": "0x82EC4668",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_barn_handrail_02":
+			{
+				"Address": "0x82EC475C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_dest_electric_panel04_lid01":
+			{
+				"Address": "0x82EC8FCC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_sq_meteor":
+			{
+				"Address": "0x82EE75E4",
+				"Material": "mc/mtl_p6_zm_buildable_meteor",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_m1911_world":
+			{
+				"Address": "0x82EB4DA4",
+				"Material": "mc/mtl_t6_wpn_pistol_m1911",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_jugg_view":
+			{
+				"Address": "0x82ED44E4",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_jugg",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body02_g_larmoff":
+			{
+				"Address": "0x82EEB0FC",
+				"Material": "mc/mtl_c_zom_zombie3_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_xm8_view":
+			{
+				"Address": "0x82EB4328",
+				"Material": "mc/mtl_t6_wpn_ar_xm8",
+				"numBones": "9",
+				"numRootBones": "1"
+				},
+			"p_rus_locker_door_a":
+			{
+				"Address": "0x82EB942C",
+				"Material": "mc/mtl_p_rus_locker",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_locker_door_b":
+			{
+				"Address": "0x82EB9520",
+				"Material": "mc/mtl_p_rus_locker",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_monsoon_crate_01_shell":
+			{
+				"Address": "0x82EC90C0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_metal_shelves_town":
+			{
+				"Address": "0x82ECEC40",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_ai_64x64x10":
+			{
+				"Address": "0x82EADC38",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_powerline_tower_redwhite":
+			{
+				"Address": "0x82EE1788",
+				"Material": "mc/mtl_p_glo_powerline_tower_redwhite",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"hanging_wire_01_diner":
+			{
+				"Address": "0x82EC0D38",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"prefab_berlin_phone_pole":
+			{
+				"Address": "0x82ECB034",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_m1911_world_lh":
+			{
+				"Address": "0x82EB4F8C",
+				"Material": "mc/mtl_t6_wpn_pistol_m1911",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_m32_view":
+			{
+				"Address": "0x82EDBA20",
+				"Material": "mc/mtl_t6_wpn_launch_m32",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"com_powerline_tower_top2_broken2_forest":
+			{
+				"Address": "0x82EC1108",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_tickets":
+			{
+				"Address": "0x82EB99E4",
+				"Material": "mc/metal_gold",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_char_gib_chunk_meat01":
+			{
+				"Address": "0x82EB2D3C",
+				"Material": "mc/mtl_fx_char_gib_chunks",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_char_gib_chunk_meat02":
+			{
+				"Address": "0x82EB2E30",
+				"Material": "mc/mtl_fx_char_gib_chunks",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_wall_64x64x10_standard":
+			{
+				"Address": "0x82EB1DFC",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_256x256x10":
+			{
+				"Address": "0x82EAEF48",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_jet_gun_world":
+			{
+				"Address": "0x82EB88BC",
+				"Material": "mc/mtl_t6_attach_optic_acog_lens",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_usrpg_view":
+			{
+				"Address": "0x82EDB468",
+				"Material": "mc/mtl_t6_wpn_launch_usrpg",
+				"numBones": "13",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body01_g_lowclean":
+			{
+				"Address": "0x82EEA868",
+				"Material": "mc/mtl_c_zom_zombie3_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p6_zm_keycard":
+			{
+				"Address": "0x82EE7AA8",
+				"Material": "mc/mtl_p6_zm_keycard",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_grass_wild_mixed_med":
+			{
+				"Address": "0x82EE1F28",
+				"Material": "mc/mtl_p6_grass_gobo",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_colt3x_view":
+			{
+				"Address": "0x82EB7E40",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_g_rlegspawn":
+			{
+				"Address": "0x82EEAC38",
+				"Material": "mc/mtl_c_gen_gore_punch",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_mattress_bent_1":
+			{
+				"Address": "0x82ECED34",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_door_metal_no_decal_right":
+			{
+				"Address": "0x82ECE870",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body02_g_legsoff":
+			{
+				"Address": "0x82EEB4CC",
+				"Material": "mc/mtl_c_zom_zombie3_body02",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shield_carry_world":
+			{
+				"Address": "0x82EE0660",
+				"Material": "mc/mtl_t6_wpn_shield",
+				"numBones": "10",
+				"numRootBones": "1"
+				},
+			"t6_wpn_projectile_rpg7":
+			{
+				"Address": "0x82EDB92C",
+				"Material": "mc/mtl_t6_wpn_launch_rpg7",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_zm_street_power_pole":
+			{
+				"Address": "0x82EBA460",
+				"Material": "mc/mtl_p6_street_power_pole_a",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_holo_zmb_view":
+			{
+				"Address": "0x82EB6948",
+				"Material": "mc/mtl_t6_attach_optic_holo_reticle",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_wall_32x32x10":
+			{
+				"Address": "0x82EAD774",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_hamr_view":
+			{
+				"Address": "0x82EB72D0",
+				"Material": "mc/mtl_t6_wpn_lmg_hamr_strap",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"fx_decal_burnt_paper":
+			{
+				"Address": "0x82EEEEF0",
+				"Material": "mc/mtl_fx_decal_burnt_paper",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_32x32x32":
+			{
+				"Address": "0x82EAFCA0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_b2023r_view":
+			{
+				"Address": "0x82EDC960",
+				"Material": "mc/mtl_t6_attach_tritium_grn_glo",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"p_glo_tools_chest_short":
+			{
+				"Address": "0x82EE4730",
+				"Material": "mc/mtl_p_glo_tool_chest_short1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"projectile_m203grenade":
+			{
+				"Address": "0x82EB3D70",
+				"Material": "mc/mtl_weapon_m203_grenade",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p_rus_tank_chemical_dmg":
+			{
+				"Address": "0x82EE2F5C",
+				"Material": "mc/mtl_p_rus_tank_chemical",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_06_upgrade":
+			{
+				"Address": "0x82EE557C",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_tombstone_world":
+			{
+				"Address": "0x82ED5518",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_tombstone",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_xm8_view":
+			{
+				"Address": "0x82EB4510",
+				"Material": "mc/mtl_t6_wpn_ar_xm8",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"foliage_red_pine_stump_lg":
+			{
+				"Address": "0x82ECA894",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_lights_hangingbulb_on_depot":
+			{
+				"Address": "0x82EBBD28",
+				"Material": "mc/mtl_hanging_bulb_cord",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_axis_createfx":
+			{
+				"Address": "0x82EB2690",
+				"Material": "mc/mtl_fx_axis_createfx",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_decal_character_blood":
+			{
+				"Address": "0x82EB2784",
+				"Material": "mc/mtl_fx_decal_character_blood",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_lights_fluorescent_yellow_on_depot":
+			{
+				"Address": "0x82EBC898",
+				"Material": "mc/mtl_p_glo_light_fluorescent_yellow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_1x128":
+			{
+				"Address": "0x82ED3B5C",
+				"Material": "mc/mtl_p6_pipes_garage",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_light_fluorescent_yellow_damaged_town":
+			{
+				"Address": "0x82ECF3E0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_floor_tile_a1":
+			{
+				"Address": "0x82EC91B4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_bank_vault_door":
+			{
+				"Address": "0x82EE594C",
+				"Material": "mc/mtl_vault_door_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_lights_club_recessed_fx_shell":
+			{
+				"Address": "0x82EEEC14",
+				"Material": "mc/light_white_01_unlit",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_outhouse":
+			{
+				"Address": "0x82EBB0C4",
+				"Material": "mc/jun_art_trim_wood_board02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"test_sphere_silver":
+			{
+				"Address": "0x82EB32F4",
+				"Material": "mc/mtl_test_sphere_silver_lores",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_old_tv":
+			{
+				"Address": "0x82EC16C0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ny_utility_pipes_vertical":
+			{
+				"Address": "0x82EC54B4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_bathroom_papertowel":
+			{
+				"Address": "0x82EBE160",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_electric_boxes4":
+			{
+				"Address": "0x82ED06F0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_bunker_wire01":
+			{
+				"Address": "0x82ED1260",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_wall_128x128x10":
+			{
+				"Address": "0x82EB09F8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_barrel_02":
+			{
+				"Address": "0x82ED022C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_corrugated_metal4x8_holes":
+			{
+				"Address": "0x82EE1970",
+				"Material": "mc/mtl_p_glo_corrugated_metal_holes",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_magic_box_fake":
+			{
+				"Address": "0x82EE5A40",
+				"Material": "mc/mtl_prop_bear",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p_zom_win_bars_01_vert01_bend_180":
+			{
+				"Address": "0x82EDF168",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_vending_revive_on":
+			{
+				"Address": "0x82ED4F60",
+				"Material": "mc/mtl_zombie_vending_vent_power_on",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_skull":
+			{
+				"Address": "0x82EB310C",
+				"Material": "mc/mtl_x2icon_gold",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_metal_shelves_cornfield":
+			{
+				"Address": "0x82ECB6E0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body01_g_upclean":
+			{
+				"Address": "0x82EE964C",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body01_g_rlegoff":
+			{
+				"Address": "0x82EE9A1C",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"afr_pallet_destroyed":
+			{
+				"Address": "0x82EBA184",
+				"Material": "mc/mtl_pallet",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_90deg02":
+			{
+				"Address": "0x82ED35A4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_90deg03":
+			{
+				"Address": "0x82ED2C1C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body05_g_upclean":
+			{
+				"Address": "0x82EEC5F4",
+				"Material": "mc/mtl_c_zom_zombie3_body05",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"collision_clip_64x64x128":
+			{
+				"Address": "0x82EAEB78",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_dinerboothchair":
+			{
+				"Address": "0x82ECC808",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_payphone_america":
+			{
+				"Address": "0x82EB8C8C",
+				"Material": "mc/mtl_phonebooth_america",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_buildable_turbine":
+			{
+				"Address": "0x82EE0E00",
+				"Material": "mc/mtl_p6_zm_buildable_turbine",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"com_food_prep_station_sink":
+			{
+				"Address": "0x82EBEFAC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_pswitch_body":
+			{
+				"Address": "0x82EE6F38",
+				"Material": "mc/mtl_p6_zm_buildable_pswitch",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_diner_supports":
+			{
+				"Address": "0x82EBFB1C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_chicom_view":
+			{
+				"Address": "0x82EDCF18",
+				"Material": "mc/mtl_t6_wpn_smg_chicom_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body02_g_rarmoff":
+			{
+				"Address": "0x82EE9EE0",
+				"Material": "mc/mtl_c_zom_zombie2_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_mp5_world":
+			{
+				"Address": "0x82ED7F08",
+				"Material": "mc/mtl_t6_wpn_smg_mp5_camo2",
+				"numBones": "9",
+				"numRootBones": "1"
+				},
+			"t5_weapon_ballistic_knife_projectile":
+			{
+				"Address": "0x82EDE410",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_clock_hourhand":
+			{
+				"Address": "0x82EE3E9C",
+				"Material": "mc/mtl_p_glo_clock_lrg",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body01_g_rarmoff":
+			{
+				"Address": "0x82EEA680",
+				"Material": "mc/mtl_c_zom_zombie3_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"p6_zm_church_column":
+			{
+				"Address": "0x82EE2D74",
+				"Material": "mc/concrete_ornate_group01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_x95l_view":
+			{
+				"Address": "0x82EB39A0",
+				"Material": "mc/mtl_t6_wpn_ar_x95l_camo3",
+				"numBones": "10",
+				"numRootBones": "1"
+				},
+			"ch_dinerboothtable":
+			{
+				"Address": "0x82EBE43C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_wall_32x32x10":
+			{
+				"Address": "0x82EB0810",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_lights_club_recessed_off":
+			{
+				"Address": "0x82EE3144",
+				"Material": "mc/metal_wall_brushed",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_kard_world":
+			{
+				"Address": "0x82EDA9EC",
+				"Material": "mc/mtl_t6_wpn_pistol_kard",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"p_jun_ashtray_town":
+			{
+				"Address": "0x82ECEA58",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_plant_cornstalk_lrg_dry":
+			{
+				"Address": "0x82ECB310",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_building_supports01":
+			{
+				"Address": "0x82EC4FF0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_depot_window_1":
+			{
+				"Address": "0x82EE426C",
+				"Material": "mc/metal_window_trim",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_vending_jugg":
+			{
+				"Address": "0x82ED46CC",
+				"Material": "mc/mtl_zombie_vending_jugg_off",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"world_knife_bowie":
+			{
+				"Address": "0x82EB47EC",
+				"Material": "mc/mtl_weapon_bowie_knife",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_x95l_view":
+			{
+				"Address": "0x82EB3B88",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body03_g_larmoff":
+			{
+				"Address": "0x82EEA3A4",
+				"Material": "mc/mtl_c_zom_zombie2_body03",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_srm1216_view":
+			{
+				"Address": "0x82EDC778",
+				"Material": "mc/mtl_t6_attach_tritium_red",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"viewmodel_default":
+			{
+				"Address": "0x82EAE3D8",
+				"Material": "mc/mtl_test_sphere_silver_lores",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p_glo_street_light01_on":
+			{
+				"Address": "0x82ECE594",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_floor_tile_b5_labs":
+			{
+				"Address": "0x82ED190C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_sign_please_wait":
+			{
+				"Address": "0x82ED3E38",
+				"Material": "mc/mtl_zombie_vending_packapunch",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_hamr_view":
+			{
+				"Address": "0x82EB76A0",
+				"Material": "mc/mtl_t6_wpn_lmg_hamr_parts",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_acog_view":
+			{
+				"Address": "0x82EB7888",
+				"Material": "mc/mtl_t6_attach_optic_acog_reticle",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_file_cabinets_a_long":
+			{
+				"Address": "0x82ECCAE4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_combo_view":
+			{
+				"Address": "0x82EDDF4C",
+				"Material": "mc/mtl_t6_attach_optic_combo_reticle_up",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"defaultactor":
+			{
+				"Address": "0x82EAE0FC",
+				"Material": "mc/lambert1",
+				"numBones": "75",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_870mcs_world":
+			{
+				"Address": "0x82ED86A8",
+				"Material": "mc/mtl_t6_wpn_shotty_870mcs",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"fx_glass_piece01":
+			{
+				"Address": "0x82EB2B54",
+				"Material": "mc/com_glass_shattered_outside",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_glass_piece02":
+			{
+				"Address": "0x82EB2C48",
+				"Material": "mc/com_glass_shattered_outside",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_g_llegspawn":
+			{
+				"Address": "0x82EEAD2C",
+				"Material": "mc/mtl_c_gen_gore_punch",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_bus_collision":
+			{
+				"Address": "0x82EE78C0",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_neon_bowling_flicker":
+			{
+				"Address": "0x82ECFD68",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_junktire":
+			{
+				"Address": "0x82EBB494",
+				"Material": "mc/mtl_tire",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_dest_electrical_transformer01_dest":
+			{
+				"Address": "0x82EC5790",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_weapon_locker":
+			{
+				"Address": "0x82EC199C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"viewmodel_knife":
+			{
+				"Address": "0x82EB37B8",
+				"Material": "mc/mtl_weapon_parabolic_knife",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p_glo_tools_hoe":
+			{
+				"Address": "0x82EC2CAC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_panel_01":
+			{
+				"Address": "0x82EC882C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_panel_02":
+			{
+				"Address": "0x82EC8738",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_street_light01":
+			{
+				"Address": "0x82ECE4A0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_street_light02":
+			{
+				"Address": "0x82EE4548",
+				"Material": "mc/mtl_p_glo_street_light02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_fence_chainlink":
+			{
+				"Address": "0x82EBCC68",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_door_white_plain_left":
+			{
+				"Address": "0x82EE5E10",
+				"Material": "mc/mtl_p_rus_door_metal_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_storage_crate":
+			{
+				"Address": "0x82EC2048",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"berlin_wood_table":
+			{
+				"Address": "0x82EBA830",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_clock_minhand":
+			{
+				"Address": "0x82EE3DA8",
+				"Material": "mc/mtl_p_glo_clock_lrg",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_4x64_metal":
+			{
+				"Address": "0x82EC5C54",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_diner_24hrs":
+			{
+				"Address": "0x82EBF934",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_magic_box":
+			{
+				"Address": "0x82EE5B34",
+				"Material": "mc/mtl_p6_zm_magic_box_hay",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p_rus_panel_pent_04":
+			{
+				"Address": "0x82ED0320",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_dumpster_zm_town":
+			{
+				"Address": "0x82ECE1C4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_lights_barefixture_off_depot":
+			{
+				"Address": "0x82EBBE1C",
+				"Material": "mc/mtl_lights_barefixture",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_256x256x256":
+			{
+				"Address": "0x82EB0534",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_oven_iron_body":
+			{
+				"Address": "0x82EC15CC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_ceiling_fan":
+			{
+				"Address": "0x82EBEDC4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_80s_world":
+			{
+				"Address": "0x82EB5CE4",
+				"Material": "mc/mtl_t6_attach_optic_80s_vzoom",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_etrap_base":
+			{
+				"Address": "0x82EEDDC8",
+				"Material": "mc/mtl_p6_zm_buildable_etrap",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_cinder_block":
+			{
+				"Address": "0x82EE10DC",
+				"Material": "mc/mtl_p_glo_cinder_block",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_wall_512x512x10":
+			{
+				"Address": "0x82EADB44",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_window_frame_wood_white":
+			{
+				"Address": "0x82EC2418",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_tank_large_midsection":
+			{
+				"Address": "0x82EC3634",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_saritch_view":
+			{
+				"Address": "0x82EDDB7C",
+				"Material": "mc/mtl_t6_wpn_ar_saritch",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body01_g_lowclean":
+			{
+				"Address": "0x82EE8618",
+				"Material": "mc/mtl_c_zom_zombie1_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_room_stairs":
+			{
+				"Address": "0x82EC9A48",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_vending_tombstone_on":
+			{
+				"Address": "0x82ED5700",
+				"Material": "mc/mtl_zombie_vending_tombstone",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_sink_motel":
+			{
+				"Address": "0x82ECCEB4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_restrooms":
+			{
+				"Address": "0x82EB97FC",
+				"Material": "mc/metal_gold",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zm_collision_perks1":
+			{
+				"Address": "0x82EB36C4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_tools_rake":
+			{
+				"Address": "0x82EC2BB8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_gl_m203_m16_world":
+			{
+				"Address": "0x82ED7768",
+				"Material": "mc/mtl_t6_attach_gl_m203",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"ny_harbor_sub_int_light_2":
+			{
+				"Address": "0x82ED2940",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_floor_tile_a1_labs":
+			{
+				"Address": "0x82ED1630",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_pool_table_lamp":
+			{
+				"Address": "0x82ECDC0C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_gasstation_oilrack":
+			{
+				"Address": "0x82EC0C44",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_char_gib_chunk_fat":
+			{
+				"Address": "0x82EB259C",
+				"Material": "mc/mtl_fx_char_gib_chunks",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_128x128x128":
+			{
+				"Address": "0x82EACEE0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_m16a2_world":
+			{
+				"Address": "0x82ED7398",
+				"Material": "mc/mtl_t6_wpn_ar_m16_camo1",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"fx_bullet_chain_blur":
+			{
+				"Address": "0x82EB74B8",
+				"Material": "mc/mtl_fx_bullet_chain_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_barn_window":
+			{
+				"Address": "0x82EC40B0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_power_station_pipe_ring":
+			{
+				"Address": "0x82EC7704",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_jet_gun_view":
+			{
+				"Address": "0x82EB87C8",
+				"Material": "mc/mtl_t6_attach_optic_acog_lens",
+				"numBones": "12",
+				"numRootBones": "1"
+				},
+			"p_rus_bookcase_fncy":
+			{
+				"Address": "0x82EC3170",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_turret_mower":
+			{
+				"Address": "0x82EEEB20",
+				"Material": "mc/mtl_p6_zm_buildable_turret_mower",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body02_g_upclean":
+			{
+				"Address": "0x82EE8EAC",
+				"Material": "mc/mtl_c_zom_zombie1_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body02_g_rlegoff":
+			{
+				"Address": "0x82EE927C",
+				"Material": "mc/mtl_c_zom_zombie1_body02",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_sq_transceiver":
+			{
+				"Address": "0x82EE77CC",
+				"Material": "mc/mtl_p6_zm_buildable_sq",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_m32_view":
+			{
+				"Address": "0x82EDBC08",
+				"Material": "mc/mtl_t6_wpn_launch_m32",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_acog_world":
+			{
+				"Address": "0x82EB797C",
+				"Material": "mc/mtl_t6_attach_optic_acog",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"debris_rubble_pile_01":
+			{
+				"Address": "0x82ED1EC4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"debris_rubble_pile_02":
+			{
+				"Address": "0x82ED1FB8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_raygun2_world":
+			{
+				"Address": "0x82EADE20",
+				"Material": "mc/mtl_t6_wpn_zmb_raygun2_1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body05_g_rlegoff":
+			{
+				"Address": "0x82EEC9C4",
+				"Material": "mc/mtl_c_zom_zombie3_body05",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body03_g_legsoff":
+			{
+				"Address": "0x82EEBC6C",
+				"Material": "mc/mtl_c_zom_zombie3_body03",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"collision_geo_512x512x512_standard":
+			{
+				"Address": "0x82EB1844",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_bank":
+			{
+				"Address": "0x82ED0044",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_geo_sphere_32_standard":
+			{
+				"Address": "0x82EB1A2C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_wall_128x128x10":
+			{
+				"Address": "0x82EAF8D0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_galil_world":
+			{
+				"Address": "0x82ED8A78",
+				"Material": "mc/mtl_t6_wpn_ar_galil_camo1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"collision_player_wall_64x64x10":
+			{
+				"Address": "0x82EAD868",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_dmg1_world":
+			{
+				"Address": "0x82EE0384",
+				"Material": "mc/mtl_t6_wpn_zmb_shield_glass",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p_glo_light_fluorescent_yellow_damaged_tunnel":
+			{
+				"Address": "0x82ED3698",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_pipes_modular_valve":
+			{
+				"Address": "0x82ED0CA8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_jugg_world":
+			{
+				"Address": "0x82ED45D8",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_jugg",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"afr_wooden_fence_rail_01":
+			{
+				"Address": "0x82EC4850",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"afr_wooden_fence_rail_03":
+			{
+				"Address": "0x82EC4944",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_monitor_support_1":
+			{
+				"Address": "0x82EC65DC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_monitor_support_2":
+			{
+				"Address": "0x82EC66D0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_64x64x256":
+			{
+				"Address": "0x82EB0164",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_8x256_ceramic":
+			{
+				"Address": "0x82EC714C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_256x256x10":
+			{
+				"Address": "0x82EB0440",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_bowling_small":
+			{
+				"Address": "0x82ECDA24",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_clock_town":
+			{
+				"Address": "0x82ECE964",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_m32_world":
+			{
+				"Address": "0x82EDBB14",
+				"Material": "mc/mtl_t6_wpn_launch_m32",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"com_trafficcone01":
+			{
+				"Address": "0x82ED284C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_4x256_metal_rusted":
+			{
+				"Address": "0x82ED30E0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_raygun2_view":
+			{
+				"Address": "0x82EADD2C",
+				"Material": "mc/mtl_t6_wpn_zmb_raygun2_1",
+				"numBones": "15",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_bus_01":
+			{
+				"Address": "0x82EE61E0",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_bus_02":
+			{
+				"Address": "0x82EE63C8",
+				"Material": "mc/mtl_p6_wood_plank_rustic01_2x8x108",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_bus_03":
+			{
+				"Address": "0x82EE65B0",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_bus_04":
+			{
+				"Address": "0x82EE6798",
+				"Material": "mc/mtl_p6_wood_plank_rustic01_2x8x108",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_bus_05":
+			{
+				"Address": "0x82EE6980",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"collision_physics_512x512x512":
+			{
+				"Address": "0x82EB071C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_lights_club_recessed":
+			{
+				"Address": "0x82EE4454",
+				"Material": "mc/metal_wall_brushed",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_win_cell_bars_01_vert01_bent":
+			{
+				"Address": "0x82EDE504",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"viewmodel_usa_morphine":
+			{
+				"Address": "0x82ED6364",
+				"Material": "mc/mtl_usa_morphine_tube",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"t5_weapon_dw_sog_knife_world":
+			{
+				"Address": "0x82EDEF80",
+				"Material": "mc/mtl_t5_weapon_sog_knife",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"com_trash_bin_sml01":
+			{
+				"Address": "0x82ECCFA8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"bathroom_urinal":
+			{
+				"Address": "0x82EBDE84",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"viewmodel_usa_no_model":
+			{
+				"Address": "0x82ED3F2C",
+				"Material": "mc/mtl_default",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"fxanim_zom_bus_interior_mod":
+			{
+				"Address": "0x82EE7308",
+				"Material": "mc/mtl_veh_t6_bus_zombie_int",
+				"numBones": "20",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_holo_zmb_ads":
+			{
+				"Address": "0x82EB6A3C",
+				"Material": "mc/mtl_t6_attach_optic_holo_reticle",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_m16_view":
+			{
+				"Address": "0x82ED748C",
+				"Material": "mc/mtl_t6_wpn_ar_m16_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"com_food_prep_station_fryer":
+			{
+				"Address": "0x82EBF0A0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_64x64x64":
+			{
+				"Address": "0x82EAFF7C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_debris_bumper01":
+			{
+				"Address": "0x82ED2A34",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_geo_32x32x10_standard":
+			{
+				"Address": "0x82EB0CD4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_broken_asphault_debris":
+			{
+				"Address": "0x82EE3BC0",
+				"Material": "mc/rubble_ash_blend",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"viewmodel_knife_bowie":
+			{
+				"Address": "0x82EB46F8",
+				"Material": "mc/mtl_weapon_bowie_knife",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fiveseven_world_lh":
+			{
+				"Address": "0x82EB4BBC",
+				"Material": "mc/mtl_t6_wpn_pistol_fiveseven_camo1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"afr_barrel_biohazard_white_rust":
+			{
+				"Address": "0x82EE1A64",
+				"Material": "mc/mtl_barrel_white_rust",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_floor_tile_a4_labs":
+			{
+				"Address": "0x82ED1818",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_ammocan":
+			{
+				"Address": "0x82EED71C",
+				"Material": "mc/mtl_zombie_ammocan",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"weapon_zombie_monkey_bomb":
+			{
+				"Address": "0x82EDF908",
+				"Material": "mc/mtl_monkey_bomb_metal",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_buildable_pap":
+			{
+				"Address": "0x82ED3C50",
+				"Material": "mc/mtl_zombie_vending_packapunch",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_rpd_view":
+			{
+				"Address": "0x82EB7C58",
+				"Material": "mc/mtl_t6_wpn_lmg_rpd_camo1",
+				"numBones": "33",
+				"numRootBones": "1"
+				},
+			"collision_clip_32x32x32":
+			{
+				"Address": "0x82EAE7A8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body01_g_upclean":
+			{
+				"Address": "0x82EEA58C",
+				"Material": "mc/mtl_c_zom_zombie3_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body01_g_rlegoff":
+			{
+				"Address": "0x82EEA95C",
+				"Material": "mc/mtl_c_zom_zombie3_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"t5_weapon_1911_world":
+			{
+				"Address": "0x82EECD94",
+				"Material": "mc/mtl_t5_weapon_m1911",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_semtex_view":
+			{
+				"Address": "0x82EE093C",
+				"Material": "mc/mtl_t6_wpn_grenade_semtex",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t5_weapon_ballistic_knife_viewmodel":
+			{
+				"Address": "0x82EDECA4",
+				"Material": "mc/mtl_ballistic_knife",
+				"numBones": "11",
+				"numRootBones": "1"
+				},
+			"com_woodlog_16_192_a":
+			{
+				"Address": "0x82EC9B3C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_woodlog_16_192_b":
+			{
+				"Address": "0x82EC9C30",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_woodlog_16_192_c":
+			{
+				"Address": "0x82EC9D24",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_woodlog_16_192_d":
+			{
+				"Address": "0x82EC9E18",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_mms_world":
+			{
+				"Address": "0x82EB6D18",
+				"Material": "mc/mtl_t6_attach_optic_mms",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body02_g_rarmoff":
+			{
+				"Address": "0x82EEB008",
+				"Material": "mc/mtl_c_zom_zombie3_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_bus_01_upgrade":
+			{
+				"Address": "0x82EE62D4",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p_rus_blinds02":
+			{
+				"Address": "0x82EB9BCC",
+				"Material": "mc/mtl_p_rus_blinds02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_blinds03":
+			{
+				"Address": "0x82EB9CC0",
+				"Material": "mc/mtl_p_rus_blinds03",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_blinds04":
+			{
+				"Address": "0x82EB9DB4",
+				"Material": "mc/mtl_p_rus_blinds04",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_galil_view":
+			{
+				"Address": "0x82ED8B6C",
+				"Material": "mc/mtl_t6_wpn_ar_galil_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p_lights_lantern_hang_on_corn":
+			{
+				"Address": "0x82ECB7D4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_keys":
+			{
+				"Address": "0x82EE3608",
+				"Material": "mc/mtl_p6_zm_keys",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_palette":
+			{
+				"Address": "0x82EC50E4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_static_berlin_couch":
+			{
+				"Address": "0x82ECF104",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_sandbags_green_lego_mdl":
+			{
+				"Address": "0x82EE24E0",
+				"Material": "mc/mtl_p_glo_sandbags_green",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body02_g_llegoff":
+			{
+				"Address": "0x82EEB3D8",
+				"Material": "mc/mtl_c_zom_zombie3_body02",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p6_plant_cornstalk_lrg_row_512_dry":
+			{
+				"Address": "0x82ECB4F8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_carpenter":
+			{
+				"Address": "0x82EED810",
+				"Material": "mc/mtl_x2icon_gold",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"light_outdoorwall01_on_power":
+			{
+				"Address": "0x82EC7BC8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_bedframemetal_dark":
+			{
+				"Address": "0x82ECAD58",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_wall_64x64x10":
+			{
+				"Address": "0x82EB0904",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_bathroom_toilet":
+			{
+				"Address": "0x82EBDD90",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_mms_view":
+			{
+				"Address": "0x82EB6C24",
+				"Material": "mc/mtl_t6_attach_optic_mms_display",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body03_g_larmoff":
+			{
+				"Address": "0x82EEB89C",
+				"Material": "mc/mtl_c_zom_zombie3_body03",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"p_glo_electrical_pipes_90deg_depot":
+			{
+				"Address": "0x82EBC2E0",
+				"Material": "mc/mtl_p_rus_pipes_modular",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_base":
+			{
+				"Address": "0x82EC7CBC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_caution_sign":
+			{
+				"Address": "0x82EE187C",
+				"Material": "mc/mtl_p_jun_caution_sign",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_01_upgrade":
+			{
+				"Address": "0x82EE4BF4",
+				"Material": "mc/mtl_p6_wood_plank_rustic01",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p_glo_bookshelf_wide_d":
+			{
+				"Address": "0x82ECC344",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"lights_indlight_power":
+			{
+				"Address": "0x82EC6AA0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_metal_door_right":
+			{
+				"Address": "0x82EC68B8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_dsr50_world":
+			{
+				"Address": "0x82EB629C",
+				"Material": "mc/mtl_t6_wpn_sniper_dsr50",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"rb_fence02":
+			{
+				"Address": "0x82ECF4D4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"rb_fence06":
+			{
+				"Address": "0x82EC2324",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_geo_ramp_standard":
+			{
+				"Address": "0x82EB1C14",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fiveseven_world":
+			{
+				"Address": "0x82EB8304",
+				"Material": "mc/mtl_t6_wpn_pistol_fiveseven_camo1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_aimpoint_world":
+			{
+				"Address": "0x82EB811C",
+				"Material": "mc/mtl_t6_attach_optic_aimpoint",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_kow_trash_pile":
+			{
+				"Address": "0x82ECE3AC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_32x32x32":
+			{
+				"Address": "0x82EAC834",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_bookshelf_wide_d_forest2":
+			{
+				"Address": "0x82ECAE4C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_win_cell_bars_01_vert04_bent":
+			{
+				"Address": "0x82EDE5F8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_wall_512x512x10":
+			{
+				"Address": "0x82EB0BE0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"locomotive_sidevent_01":
+			{
+				"Address": "0x82EC569C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_door_metal_no_decal_left":
+			{
+				"Address": "0x82ECE77C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_crate02_farm":
+			{
+				"Address": "0x82EC3AF8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_128x128x10":
+			{
+				"Address": "0x82EACDEC",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_dest_electric_panel02_base":
+			{
+				"Address": "0x82EC8CF0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_saiga_view":
+			{
+				"Address": "0x82EDBFD8",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_zm_diner_window":
+			{
+				"Address": "0x82EC0A5C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_saritch_view":
+			{
+				"Address": "0x82EDDD64",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"collision_geo_128x128x128_standard":
+			{
+				"Address": "0x82EB1474",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_street_pole_sign_broken":
+			{
+				"Address": "0x82EBA278",
+				"Material": "mc/mtl_p6_street_broken_sign",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_sofa_damaged_trash_panama":
+			{
+				"Address": "0x82EBA554",
+				"Material": "mc/mtl_p6_sofa_damaged_panama",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_woodlog_24_96_a":
+			{
+				"Address": "0x82EC9F0C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_woodlog_24_96_b":
+			{
+				"Address": "0x82ECA000",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_woodlog_24_96_c":
+			{
+				"Address": "0x82ECA0F4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_woodlog_24_96_d":
+			{
+				"Address": "0x82ECA1E8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"berlin_hotel_lights_wall2_on":
+			{
+				"Address": "0x82ECBAB0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_avagadro_fb":
+			{
+				"Address": "0x82EE7C90",
+				"Material": "mc/mtl_c_zom_avagadro_veins",
+				"numBones": "115",
+				"numRootBones": "1"
+				},
+			"p6_zm_monitor_table_display_01":
+			{
+				"Address": "0x82EC63F4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"intro_props_wires_01":
+			{
+				"Address": "0x82EC6118",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"intro_props_wires_02":
+			{
+				"Address": "0x82EC620C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_restaurantsink_2comps":
+			{
+				"Address": "0x82EBD314",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_door_white_frame_60":
+			{
+				"Address": "0x82EBCE50",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_file_cabinets_a_med":
+			{
+				"Address": "0x82ECCBD8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_player_reporter_fb":
+			{
+				"Address": "0x82EED258",
+				"Material": "mc/mtl_c_zom_player_reporter_gear",
+				"numBones": "103",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_m1911_view_lh":
+			{
+				"Address": "0x82EB4E98",
+				"Material": "mc/mtl_t6_wpn_pistol_m1911",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"t6_attach_gl_m320_world":
+			{
+				"Address": "0x82EB6854",
+				"Material": "mc/mtl_t6_attach_gl_m320",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"afr_mirror_broken":
+			{
+				"Address": "0x82EBE06C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"hanging_wire_02_diner":
+			{
+				"Address": "0x82EC0E2C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"hanging_wire_01":
+			{
+				"Address": "0x82EB8E74",
+				"Material": "mc/mtl_fxanim_gp_wires",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"hanging_wire_02":
+			{
+				"Address": "0x82EB8F68",
+				"Material": "mc/mtl_fxanim_gp_wires",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"hanging_wire_03":
+			{
+				"Address": "0x82EB905C",
+				"Material": "mc/mtl_fxanim_gp_wires",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"hanging_wire_04":
+			{
+				"Address": "0x82EB9150",
+				"Material": "mc/mtl_fxanim_gp_wires",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_screecher_fb":
+			{
+				"Address": "0x82EE7B9C",
+				"Material": "mc/mtl_c_zom_screecher",
+				"numBones": "66",
+				"numRootBones": "1"
+				},
+			"p_glo_trashcan_town":
+			{
+				"Address": "0x82ECEE28",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"furniture_lamp_hanging":
+			{
+				"Address": "0x82ECC068",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_church":
+			{
+				"Address": "0x82ECFC74",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_debris_metal_grille":
+			{
+				"Address": "0x82ED2570",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_pneumatic_dolly":
+			{
+				"Address": "0x82ED08D8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_water_tower":
+			{
+				"Address": "0x82EBACF4",
+				"Material": "mc/mtl_p_glo_water_tower",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_open_power_panel":
+			{
+				"Address": "0x82EC8920",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_modular_wires_lg":
+			{
+				"Address": "0x82EC5F30",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_fal_view":
+			{
+				"Address": "0x82ED8F3C",
+				"Material": "mc/mtl_t6_wpn_ar_fal_camo1",
+				"numBones": "10",
+				"numRootBones": "1"
+				},
+			"p6_cic_wires_hanging":
+			{
+				"Address": "0x82EC6024",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_64x64x128":
+			{
+				"Address": "0x82EACC04",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"lights_indlight_on_farm":
+			{
+				"Address": "0x82EC3DD4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_vending_marathon_on":
+			{
+				"Address": "0x82ED4B90",
+				"Material": "mc/mtl_zombie_vending_marathon",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_dest_electric_panel01_lid01":
+			{
+				"Address": "0x82EC8B08",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_dest_electric_panel01_lid02":
+			{
+				"Address": "0x82EC8BFC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_4_45angle_metal":
+			{
+				"Address": "0x82EC5E3C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_storage_crate_forest2":
+			{
+				"Address": "0x82ECAF40",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"test_sphere_lambert":
+			{
+				"Address": "0x82EB33E8",
+				"Material": "mc/187_grey",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_vending_doubletap2":
+			{
+				"Address": "0x82ED42FC",
+				"Material": "mc/mtl_zombie_vending_doubletap2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_restaurantkitchentable_1":
+			{
+				"Address": "0x82EC2600",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_dmg2_stow":
+			{
+				"Address": "0x82EE0848",
+				"Material": "mc/mtl_t6_wpn_zmb_shield",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t5_weapon_camera_head_world":
+			{
+				"Address": "0x82EB2878",
+				"Material": "mc/mtl_t5_weapon_camera_spike",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"fx_pistol_shell_blur":
+			{
+				"Address": "0x82EB4AC8",
+				"Material": "mc/mtl_fx_shell_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"pb_pole_telephone_bulb":
+			{
+				"Address": "0x82EE26C8",
+				"Material": "mc/ch_trim_stainlessteel_1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_brick_clump_red_depot":
+			{
+				"Address": "0x82EBCB74",
+				"Material": "mc/core_brick_med",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_bench_old":
+			{
+				"Address": "0x82EBBC34",
+				"Material": "mc/mtl_p6_zm_bench_old",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body02_g_upclean":
+			{
+				"Address": "0x82EE9DEC",
+				"Material": "mc/mtl_c_zom_zombie2_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"defaultweapon":
+			{
+				"Address": "0x82EAE2E4",
+				"Material": "mc/lambert1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p6_zm_power_station_railing_core":
+			{
+				"Address": "0x82EC6E70",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_power_station_pipe_2x256":
+			{
+				"Address": "0x82EC77F8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_usrpg_world":
+			{
+				"Address": "0x82EDB55C",
+				"Material": "mc/mtl_t6_wpn_launch_usrpg",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"collision_clip_64x64x256":
+			{
+				"Address": "0x82EAEC6C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body03_g_rarmoff":
+			{
+				"Address": "0x82EEA2B0",
+				"Material": "mc/mtl_c_zom_zombie2_body03",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_chicom_view":
+			{
+				"Address": "0x82EB5268",
+				"Material": "mc/mtl_t6_wpn_smg_chicom_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"world_dw_knife_bowie":
+			{
+				"Address": "0x82EDF444",
+				"Material": "mc/mtl_weapon_bowie_knife",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"zombie_meteor_chunk_sml2":
+			{
+				"Address": "0x82EB9F9C",
+				"Material": "mc/mtl_zombie_meteor",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_roofvent3":
+			{
+				"Address": "0x82EBEAE8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_stove":
+			{
+				"Address": "0x82EC3264",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_locker_closed":
+			{
+				"Address": "0x82EB9244",
+				"Material": "mc/mtl_p_rus_locker",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_chicom_world":
+			{
+				"Address": "0x82EDD00C",
+				"Material": "mc/mtl_t6_wpn_smg_chicom_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_pap_body":
+			{
+				"Address": "0x82EEE474",
+				"Material": "mc/mtl_zombie_vending_packapunch",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_floor_tile_b1_labs":
+			{
+				"Address": "0x82ED1724",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_rpd_world":
+			{
+				"Address": "0x82EB7D4C",
+				"Material": "mc/mtl_t6_wpn_lmg_rpd_camo1",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"zombie_theater_folded_chair":
+			{
+				"Address": "0x82EC1B84",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_grip_view":
+			{
+				"Address": "0x82EB7A70",
+				"Material": "mc/mtl_t6_attach_grip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"semtex_bag":
+			{
+				"Address": "0x82EDEBB0",
+				"Material": "mc/mtl_semtex_pouch",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"berlin_lamp_post_sidewalk_01":
+			{
+				"Address": "0x82EBFDF8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_dmg1_view":
+			{
+				"Address": "0x82EDFFB4",
+				"Material": "mc/mtl_t6_wpn_zmb_shield_glass",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p_glo_sandbags_green_long_128x64_khe_sahn":
+			{
+				"Address": "0x82EC2230",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shield_stow_world":
+			{
+				"Address": "0x82EE056C",
+				"Material": "mc/mtl_t6_wpn_shield",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_fal_view":
+			{
+				"Address": "0x82ED9124",
+				"Material": "mc/mtl_t6_wpn_ar_fal_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t5_foliage_tree_burnt02":
+			{
+				"Address": "0x82EE12C4",
+				"Material": "mc/t5_foliage_tree_burnt_bark01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_foliage_tree_burnt03":
+			{
+				"Address": "0x82EE2204",
+				"Material": "mc/t5_foliage_tree_burnt_bark01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"char_ger_honorgd_fullbody":
+			{
+				"Address": "0x82EDFBE4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_taser_knuckles_view":
+			{
+				"Address": "0x82EE0C18",
+				"Material": "mc/mtl_t6_wpn_taser_knuckles",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"collision_geo_64x64x128_standard":
+			{
+				"Address": "0x82EB1198",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_window_frame_wood_white_diner":
+			{
+				"Address": "0x82EBE348",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_xm8_world":
+			{
+				"Address": "0x82EB441C",
+				"Material": "mc/mtl_t6_wpn_ar_xm8",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p6_duct_sq_sml_vert_90_dirty":
+			{
+				"Address": "0x82EBECD0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_cub_door_wood_frame01":
+			{
+				"Address": "0x82ECC438",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_cub_barstool":
+			{
+				"Address": "0x82ECBF74",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_water_fountain":
+			{
+				"Address": "0x82EB8AA4",
+				"Material": "mc/mtl_school_water_fountain",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_sphere_32":
+			{
+				"Address": "0x82EAF40C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_pak_electric_box_set_03":
+			{
+				"Address": "0x82EBC004",
+				"Material": "mc/mtl_p6_pak_electric_box",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_bus_02_upgrade":
+			{
+				"Address": "0x82EE64BC",
+				"Material": "mc/mtl_p6_wood_plank_rustic01_2x8x108",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_m16_world":
+			{
+				"Address": "0x82ED7580",
+				"Material": "mc/mtl_t6_wpn_ar_m16_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_etrap_tvtube":
+			{
+				"Address": "0x82EEDEBC",
+				"Material": "mc/mtl_p6_zm_buildable_etrap",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_plant_cornstalk_dmg_128":
+			{
+				"Address": "0x82ECB8C8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"test_macbeth_chart":
+			{
+				"Address": "0x82EB34DC",
+				"Material": "mc/mtl_macbeth_chart",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_dinerboothchair_2_d3":
+			{
+				"Address": "0x82EBF658",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_dmg2_world":
+			{
+				"Address": "0x82EE0478",
+				"Material": "mc/mtl_t6_wpn_zmb_shield",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p_rus_rocket_wire_debris":
+			{
+				"Address": "0x82EC5884",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_wind_turbine_rotor":
+			{
+				"Address": "0x82ECB21C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_dsr50_view":
+			{
+				"Address": "0x82EB6578",
+				"Material": "mc/mtl_t6_attach_optic_vzoom_dsr50",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_bus_rooftop":
+			{
+				"Address": "0x82EBAA18",
+				"Material": "mc/mtl_p6_zm_sign_bus_rooftop",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"diner_stool_01":
+			{
+				"Address": "0x82EBE530",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_bus_zombie_headlights":
+			{
+				"Address": "0x82EEF2C0",
+				"Material": "mc/mtl_veh_t6_zombie_bus_light_glow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_saritch_world":
+			{
+				"Address": "0x82EDDC70",
+				"Material": "mc/mtl_t6_wpn_ar_saritch",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"iw_rooftop_ac_unit":
+			{
+				"Address": "0x82EBE9F4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_1x32":
+			{
+				"Address": "0x82ED34B0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_smallwagon_dead":
+			{
+				"Address": "0x82EE15A0",
+				"Material": "mc/mtl_t6_civ_small_hatchback_wagon_d_white",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_sq_scaffolding":
+			{
+				"Address": "0x82EE76D8",
+				"Material": "mc/mtl_p6_zm_buildable_sq",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_pickup_perk_bottle":
+			{
+				"Address": "0x82EED9F8",
+				"Material": "mc/mtl_x2icon_gold",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_garage_door_01":
+			{
+				"Address": "0x82EE5FF8",
+				"Material": "mc/wood_wall_planks_painted_white_dirty",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_barricade_board_02_upgrade":
+			{
+				"Address": "0x82EE4DDC",
+				"Material": "mc/mtl_p6_wood_plank_rustic01_2x8x108",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body05_g_lowclean":
+			{
+				"Address": "0x82EEC8D0",
+				"Material": "mc/mtl_c_zom_zombie3_body05",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"collision_clip_wall_32x32x10":
+			{
+				"Address": "0x82EAF6E8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_view":
+			{
+				"Address": "0x82EDFDCC",
+				"Material": "mc/mtl_t6_wpn_zmb_shield_glass",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_80s_view":
+			{
+				"Address": "0x82EB5BF0",
+				"Material": "mc/mtl_t6_wpn_sniper_ballista_lens",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_screecher_arms_view":
+			{
+				"Address": "0x82EECCA0",
+				"Material": "mc/mtl_viewarm_zom_screecher_skin",
+				"numBones": "35",
+				"numRootBones": "1"
+				},
+			"p6_zm_shoe_rack":
+			{
+				"Address": "0x82ECD748",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_washer_01":
+			{
+				"Address": "0x82ECD284",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_debris_stone_01":
+			{
+				"Address": "0x82EAE5C0",
+				"Material": "mc/mtl_fx_dest_atlas",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_32x32x128":
+			{
+				"Address": "0x82EAFD94",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_geo_64x64x64_standard":
+			{
+				"Address": "0x82EB10A4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_wall_512x512x10":
+			{
+				"Address": "0x82EAFAB8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_karma_window_vent_open":
+			{
+				"Address": "0x82EC51D8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_bus_zombie_cow_catcher":
+			{
+				"Address": "0x82EEDBE0",
+				"Material": "mc/mtl_veh_t6_bus_zombie_cow_catcher",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_usrpg_stow":
+			{
+				"Address": "0x82EDB650",
+				"Material": "mc/mtl_t6_wpn_launch_usrpg",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_python_view":
+			{
+				"Address": "0x82ED6734",
+				"Material": "mc/mtl_t6_wpn_pistol_python",
+				"numBones": "14",
+				"numRootBones": "1"
+				},
+			"light_outdoorwall01_on":
+			{
+				"Address": "0x82EBB67C",
+				"Material": "mc/mtl_light_outdoorwall",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_office_bookset1":
+			{
+				"Address": "0x82EC13E4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_taser_knuckles_world":
+			{
+				"Address": "0x82EE0D0C",
+				"Material": "mc/mtl_t6_wpn_taser_knuckles",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p_rus_table_steel":
+			{
+				"Address": "0x82EBCD5C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_fal_world":
+			{
+				"Address": "0x82ED9030",
+				"Material": "mc/mtl_t6_wpn_ar_fal_camo1",
+				"numBones": "9",
+				"numRootBones": "1"
+				},
+			"collision_clip_64x64x64":
+			{
+				"Address": "0x82EAEA84",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_cylinder_32x128":
+			{
+				"Address": "0x82EAD3A4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_dsr50_scope_view":
+			{
+				"Address": "0x82EB5FC0",
+				"Material": "mc/mtl_t6_wpn_sniper_dsr50",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_zm_quarantine_fence_01":
+			{
+				"Address": "0x82EE2A98",
+				"Material": "mc/ch_metal_rusty_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_quarantine_fence_02":
+			{
+				"Address": "0x82EE2B8C",
+				"Material": "mc/ch_metal_rusty_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_quarantine_fence_03":
+			{
+				"Address": "0x82EE22F8",
+				"Material": "mc/ch_metal_rusty_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_bus_zombie_turnsignal_right":
+			{
+				"Address": "0x82EEF690",
+				"Material": "mc/mtl_veh_t6_zombie_bus_light_glow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_saiga_world":
+			{
+				"Address": "0x82EDC2B4",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_electrician_fb":
+			{
+				"Address": "0x82EDFCD8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_int_table_lg":
+			{
+				"Address": "0x82EC14D8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_4_90angle_metal_rusted":
+			{
+				"Address": "0x82ED2EF8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_60s_coupe_dead":
+			{
+				"Address": "0x82EE14AC",
+				"Material": "mc/mtl_t6_veh_civ_60s_coupe_dest",
+				"numBones": "46",
+				"numRootBones": "1"
+				},
+			"collision_geo_32x32x128_standard":
+			{
+				"Address": "0x82EB0EBC",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_car_lift":
+			{
+				"Address": "0x82EBFEEC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"test_macbeth_chart_unlit":
+			{
+				"Address": "0x82EB35D0",
+				"Material": "mc/mtl_macbeth_chart_unlit",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_geo_64x64x10_standard":
+			{
+				"Address": "0x82EB0FB0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_win_bars_01_vert01_bend":
+			{
+				"Address": "0x82EDE6EC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_kiosk":
+			{
+				"Address": "0x82EB9EA8",
+				"Material": "mc/zm_map_transit",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie_g_rarmspawn":
+			{
+				"Address": "0x82EE89E8",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_door_white_window_plain_left":
+			{
+				"Address": "0x82EE4178",
+				"Material": "mc/rus_window_glass_wired",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_barbershop_window_01":
+			{
+				"Address": "0x82EE29A4",
+				"Material": "mc/plaster_ceiling_plaster01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_town_window_01":
+			{
+				"Address": "0x82EE27BC",
+				"Material": "mc/mp_b_art_metal_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_barbershop_window_02":
+			{
+				"Address": "0x82ECF7B0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_rifle_shell":
+			{
+				"Address": "0x82EB5544",
+				"Material": "mc/mtl_fx_shell",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body01_g_legsoff":
+			{
+				"Address": "0x82EE88F4",
+				"Material": "mc/mtl_c_zom_zombie1_body01",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p_glo_tools_shovel":
+			{
+				"Address": "0x82EC2AC4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_work_bench":
+			{
+				"Address": "0x82EE4824",
+				"Material": "mc/mtl_p6_zm_work_bench",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_vending_doubletap2_on":
+			{
+				"Address": "0x82ED43F0",
+				"Material": "mc/mtl_zombie_vending_doubletap2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body04_g_legsoff":
+			{
+				"Address": "0x82EEC40C",
+				"Material": "mc/mtl_c_zom_zombie3_body04",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"ch_furniture_teachers_chair_dusty_1":
+			{
+				"Address": "0x82ECCDC0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_barn_door_right":
+			{
+				"Address": "0x82EC4574",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_roof_center":
+			{
+				"Address": "0x82EC8180",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"weapon_parabolic_knife":
+			{
+				"Address": "0x82ED6270",
+				"Material": "mc/mtl_weapon_parabolic_knife",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_door_white_plain_right":
+			{
+				"Address": "0x82EE4084",
+				"Material": "mc/mtl_p_rus_door_metal_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_buildable_etrap":
+			{
+				"Address": "0x82EE0FE8",
+				"Material": "mc/mtl_p6_zm_buildable_etrap",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p6_table_bunker":
+			{
+				"Address": "0x82ECA3D0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_foliage_shrubs02":
+			{
+				"Address": "0x82EE201C",
+				"Material": "mc/t5_foliage_shrub_leaf01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_x95l_world":
+			{
+				"Address": "0x82EB3C7C",
+				"Material": "mc/mtl_t6_wpn_ar_x95l_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_64x64x64":
+			{
+				"Address": "0x82EACB10",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_ramp":
+			{
+				"Address": "0x82EAF5F4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_wall_64x64x10":
+			{
+				"Address": "0x82EAF7DC",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_lights_fluorescent_yellow_on_tunnel":
+			{
+				"Address": "0x82ED378C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_weapon_ballistic_knife_blade":
+			{
+				"Address": "0x82EDEE8C",
+				"Material": "mc/mtl_ballistic_knife",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_pswitch_lever":
+			{
+				"Address": "0x82EE702C",
+				"Material": "mc/mtl_p6_zm_buildable_pswitch",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"paris_kitchen_plates_broken_01":
+			{
+				"Address": "0x82EBF288",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"paris_kitchen_plates_broken_02":
+			{
+				"Address": "0x82EBF37C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"paris_kitchen_plates_broken_03":
+			{
+				"Address": "0x82EBF470",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_projectile_usrpg":
+			{
+				"Address": "0x82EDB838",
+				"Material": "mc/mtl_t6_wpn_launch_usrpg",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_zm_door_security_depot":
+			{
+				"Address": "0x82EE60EC",
+				"Material": "mc/metal_aluminum01_painted_dirty",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_player_farmgirl_fb":
+			{
+				"Address": "0x82EECF7C",
+				"Material": "mc/mtl_c_zom_player_farmgirl_body",
+				"numBones": "105",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_type95_view":
+			{
+				"Address": "0x82EB3E64",
+				"Material": "mc/mtl_t6_attach_tritium_wht",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"p6_anim_zm_buildable_pap_on":
+			{
+				"Address": "0x82ED3D44",
+				"Material": "mc/mtl_zombie_vending_packapunch",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"zm_awning_02_blue":
+			{
+				"Address": "0x82ECBE80",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_chicom_world":
+			{
+				"Address": "0x82EB535C",
+				"Material": "mc/mtl_t6_wpn_smg_chicom_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_woodbarrel_single":
+			{
+				"Address": "0x82ECAB70",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_lights_fluorescent_yellow":
+			{
+				"Address": "0x82EE4360",
+				"Material": "mc/mtl_p_glo_light_fluorescent_yellow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_judge_world":
+			{
+				"Address": "0x82EDD994",
+				"Material": "mc/mtl_t6_wpn_pistol_judge",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"light_outdoorwall01":
+			{
+				"Address": "0x82EBB588",
+				"Material": "mc/mtl_light_outdoorwall",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_wall_256x256x10":
+			{
+				"Address": "0x82EADA50",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_bus_zombie_flashing_lights":
+			{
+				"Address": "0x82EEF3B4",
+				"Material": "mc/mtl_veh_t6_zombie_bus_light_glow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_wires_modular_straight_256":
+			{
+				"Address": "0x82ED0E90",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_galil_view":
+			{
+				"Address": "0x82ED8984",
+				"Material": "mc/mtl_t6_wpn_ar_galil_camo1",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"collision_clip_128x128x10":
+			{
+				"Address": "0x82EAED60",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_pistol_shell":
+			{
+				"Address": "0x82EB49D4",
+				"Material": "mc/mtl_fx_shell",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"usa_sign_deercrossing":
+			{
+				"Address": "0x82ECC9F0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ny_harbor_planter":
+			{
+				"Address": "0x82EBA090",
+				"Material": "mc/mtl_ny_harbor_planter",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_turbine_mannequin":
+			{
+				"Address": "0x82EEE844",
+				"Material": "mc/mtl_p6_zm_buildable_turbine",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_corkboard_metaltrim_4x8":
+			{
+				"Address": "0x82EE3514",
+				"Material": "mc/mtl_corkboards",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_tools_chest_tall_1":
+			{
+				"Address": "0x82EBCF44",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_brick_clump_red_power":
+			{
+				"Address": "0x82EC8274",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_doubletap_view":
+			{
+				"Address": "0x82ED4114",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_doubletap",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p6_zm_bank_vault_floor_hatch":
+			{
+				"Address": "0x82EE5F04",
+				"Material": "mc/metal_window_trim",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_8x128_ceramic_diner":
+			{
+				"Address": "0x82EBF74C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_gas_pump":
+			{
+				"Address": "0x82EBD408",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_neon_bowling":
+			{
+				"Address": "0x82ECFE5C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"viewmodel_ballistic_knife_w_bowie":
+			{
+				"Address": "0x82EDF350",
+				"Material": "mc/mtl_ballistic_knife",
+				"numBones": "12",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_xm8_world":
+			{
+				"Address": "0x82EB4604",
+				"Material": "mc/mtl_t6_wpn_ar_xm8",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"lights_indlight_farm":
+			{
+				"Address": "0x82EC3EC8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_128x128x128":
+			{
+				"Address": "0x82EB034C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_claymore_view":
+			{
+				"Address": "0x82EDF538",
+				"Material": "mc/mtl_t6_wpn_claymore",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_semtex_world":
+			{
+				"Address": "0x82EE0A30",
+				"Material": "mc/mtl_t6_wpn_grenade_semtex",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"hanging_wire_03_diner":
+			{
+				"Address": "0x82EC0F20",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_player_512x512x10":
+			{
+				"Address": "0x82EAD1BC",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie2_body03_g_upclean":
+			{
+				"Address": "0x82EEA1BC",
+				"Material": "mc/mtl_c_zom_zombie2_body03",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"com_pipe_4x128_metal":
+			{
+				"Address": "0x82EC6B94",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_power_station_pipe_2x256_tunnel":
+			{
+				"Address": "0x82ED2D10",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_church_column_tall":
+			{
+				"Address": "0x82EE2C80",
+				"Material": "mc/concrete_ornate_group01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_tools_axe":
+			{
+				"Address": "0x82ECA988",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_bookstore":
+			{
+				"Address": "0x82ECD46C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_zom_win_bars_01_vert04_bend":
+			{
+				"Address": "0x82EDE7E0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body02_g_upclean":
+			{
+				"Address": "0x82EEAF14",
+				"Material": "mc/mtl_c_zom_zombie3_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body02_g_rlegoff":
+			{
+				"Address": "0x82EEB2E4",
+				"Material": "mc/mtl_c_zom_zombie3_body02",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"p6_monitor_support_slant":
+			{
+				"Address": "0x82EC67C4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_terminal":
+			{
+				"Address": "0x82EB98F0",
+				"Material": "mc/metal_gold",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_doubletap_world":
+			{
+				"Address": "0x82ED4208",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_doubletap",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p_zom_win_bars_01_vert04_bend_180":
+			{
+				"Address": "0x82EDF25C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_sphere_64":
+			{
+				"Address": "0x82EAF500",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_x2_icon":
+			{
+				"Address": "0x82EB3200",
+				"Material": "mc/mtl_x2icon_gold",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_pipes_modular_clampc":
+			{
+				"Address": "0x82ED0D9C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_bucket_metal":
+			{
+				"Address": "0x82ECA4C4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_hamr_world":
+			{
+				"Address": "0x82EB7794",
+				"Material": "mc/mtl_t6_wpn_lmg_hamr_parts",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ch_dinerboothchair_2_d":
+			{
+				"Address": "0x82EBF564",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fiveseven_view_lh":
+			{
+				"Address": "0x82EB48E0",
+				"Material": "mc/mtl_t6_wpn_pistol_fiveseven_camo1",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_m16a2_view":
+			{
+				"Address": "0x82ED72A4",
+				"Material": "mc/mtl_clan_tag",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body03_g_rarmoff":
+			{
+				"Address": "0x82EEB7A8",
+				"Material": "mc/mtl_c_zom_zombie3_body03",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"p_dest_electric_panel02_lid01":
+			{
+				"Address": "0x82EC8DE4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_ashtray":
+			{
+				"Address": "0x82EB8B98",
+				"Material": "mc/mtl_p_jun_ashtray",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_car_lift_lowered":
+			{
+				"Address": "0x82EBFFE0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_saritch_world":
+			{
+				"Address": "0x82EDDE58",
+				"Material": "mc/mtl_t6_wpn_ar_saritch_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body03_g_llegoff":
+			{
+				"Address": "0x82EEBB78",
+				"Material": "mc/mtl_c_zom_zombie3_body03",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"com_debris_car_panal02":
+			{
+				"Address": "0x82ED2388",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie1_body01_g_larmoff":
+			{
+				"Address": "0x82EE8430",
+				"Material": "mc/mtl_c_zom_zombie1_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_b2023r_world":
+			{
+				"Address": "0x82EDCA54",
+				"Material": "mc/mtl_t6_wpn_pistol_b2023r",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_zm_sign_laundromat":
+			{
+				"Address": "0x82ECD654",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_weapon_ballistic_knife_world":
+			{
+				"Address": "0x82EDED98",
+				"Material": "mc/mtl_ballistic_knife",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"tag_origin":
+			{
+				"Address": "0x82EB22C0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_dsr50_view":
+			{
+				"Address": "0x82EB60B4",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"zombie_vending_jugg_on":
+			{
+				"Address": "0x82ED47C0",
+				"Material": "mc/mtl_zombie_vending_jugg_on",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_1x64":
+			{
+				"Address": "0x82EC6C88",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_door":
+			{
+				"Address": "0x82EEE568",
+				"Material": "mc/mtl_t6_wpn_zmb_shield",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_buildable_pap_table":
+			{
+				"Address": "0x82EEE380",
+				"Material": "mc/mtl_p6_zm_buildable_pap_table",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body04_g_larmoff":
+			{
+				"Address": "0x82EEC03C",
+				"Material": "mc/mtl_c_zom_zombie3_body04",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie_g_larmspawn":
+			{
+				"Address": "0x82EE8ADC",
+				"Material": "mc/mtl_c_zom_zombie2_body01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_sniper_silencer1_view":
+			{
+				"Address": "0x82EB6390",
+				"Material": "mc/mtl_t6_attach_sniper_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"zombie_vending_revive":
+			{
+				"Address": "0x82ED4E6C",
+				"Material": "mc/mtl_zombie_vending_vent_power_off",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_shield_dolly":
+			{
+				"Address": "0x82EEE65C",
+				"Material": "mc/mtl_t6_wpn_zmb_shield",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_fal_world":
+			{
+				"Address": "0x82ED9218",
+				"Material": "mc/mtl_t6_wpn_ar_fal_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_wall_128x128x10_standard":
+			{
+				"Address": "0x82EB1EF0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx":
+			{
+				"Address": "0x82EB21CC",
+				"Material": "mc/missing_fx",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_stanchion_post":
+			{
+				"Address": "0x82EB8D80",
+				"Material": "mc/mtl_p6_stanchion",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_us_fireplace_screen_tools":
+			{
+				"Address": "0x82ECA7A0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"lights_indlight_on_diner":
+			{
+				"Address": "0x82EC0780",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_spray_can01":
+			{
+				"Address": "0x82EC02BC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_saiga_world":
+			{
+				"Address": "0x82EDBEE4",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"collision_clip_32x32x128":
+			{
+				"Address": "0x82EAE89C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_debris_steeringwheel02":
+			{
+				"Address": "0x82ED2664",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_pipe_8_90angle_ceramic":
+			{
+				"Address": "0x82EC7610",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_locker_open":
+			{
+				"Address": "0x82EB9338",
+				"Material": "mc/mtl_p_rus_locker_pieces",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_room_lower_catwalk_a":
+			{
+				"Address": "0x82EC9678",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_core_reactor_room_lower_catwalk_b":
+			{
+				"Address": "0x82EC976C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_church_window_large":
+			{
+				"Address": "0x82EE2E68",
+				"Material": "mc/ch_metal_rusty_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_saiga_view":
+			{
+				"Address": "0x82EDC1C0",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_movingtrk_cab_dead":
+			{
+				"Address": "0x82EE1C4C",
+				"Material": "mc/mtl_veh_t6_movingtruck_cab_dead",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_eb_med_suitcase":
+			{
+				"Address": "0x82EB9708",
+				"Material": "mc/mtl_p_eb_med_suitcase",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body04_g_lowclean":
+			{
+				"Address": "0x82EEC130",
+				"Material": "mc/mtl_c_zom_zombie3_body04",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body01":
+			{
+				"Address": "0x82EEA498",
+				"Material": "mc/mtl_c_zom_zombie3_body01",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body02":
+			{
+				"Address": "0x82EEAE20",
+				"Material": "mc/mtl_c_zom_zombie3_body02",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body03":
+			{
+				"Address": "0x82EEB5C0",
+				"Material": "mc/mtl_c_zom_zombie3_body03",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body04":
+			{
+				"Address": "0x82EEBD60",
+				"Material": "mc/mtl_c_zom_zombie3_body04",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie3_body05":
+			{
+				"Address": "0x82EEC500",
+				"Material": "mc/mtl_c_zom_zombie3_body05",
+				"numBones": "73",
+				"numRootBones": "1"
+				},
+			"debris_rubble_chunk_10":
+			{
+				"Address": "0x82ED2294",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"berlin_hotel_lights_wall2_off":
+			{
+				"Address": "0x82ECBBA4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_dumpster_zm_bstation":
+			{
+				"Address": "0x82EBB864",
+				"Material": "mc/lambert1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_bus_zombie_brakelights":
+			{
+				"Address": "0x82EEF4A8",
+				"Material": "mc/mtl_veh_t6_zombie_bus_light_glow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_bus_zombie_turnsignal_left":
+			{
+				"Address": "0x82EEF59C",
+				"Material": "mc/mtl_veh_t6_zombie_bus_light_glow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_desklamp_wmd_on":
+			{
+				"Address": "0x82EE4918",
+				"Material": "mc/mtl_p_rus_desklamp_off_wmd",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_zm_bank_teller_window":
+			{
+				"Address": "0x82ECF998",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_rubble02":
+			{
+				"Address": "0x82EC4B2C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie_head_a":
+			{
+				"Address": "0x82EE8154",
+				"Material": "mc/mtl_c_zom_zombie_head_a",
+				"numBones": "27",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie_head_k":
+			{
+				"Address": "0x82EE7E78",
+				"Material": "mc/mtl_c_zom_zombie_head_k",
+				"numBones": "27",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie_head_l":
+			{
+				"Address": "0x82EE7F6C",
+				"Material": "mc/mtl_c_zom_zombie_head_l",
+				"numBones": "27",
+				"numRootBones": "1"
+				},
+			"c_zom_zombie_head_n":
+			{
+				"Address": "0x82EE8060",
+				"Material": "mc/mtl_c_zom_zombie_head_n",
+				"numBones": "27",
+				"numRootBones": "1"
+				},
+			"berlin_traffic_signal_01_red_light":
+			{
+				"Address": "0x82EEFA60",
+				"Material": "mc/mtl_berlin_traffic_signal_01_unlit",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_zmb_perk_bottle_revive_view":
+			{
+				"Address": "0x82ED4C84",
+				"Material": "mc/mtl_t6_wpn_zmb_perk_bottle_revive",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p_glo_trashcan":
+			{
+				"Address": "0x82EBBF10",
+				"Material": "mc/mtl_p_glo_trashcan_metal",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_mp5_view":
+			{
+				"Address": "0x82ED7FFC",
+				"Material": "mc/mtl_t6_wpn_smg_mp5_camo2",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+		}
